@@ -1,0 +1,48 @@
+\input{Dokumentklassen}
+
+\usepackage{url}
+\usepackage{hyperref}
+%\usepackage{natbib}
+%\bibliographystyle{plainnat}
+%\usepackage{biblatex}
+
+\raggedbottom
+
+%\externaldocument[D-]{Dokumentation}
+
+\begin{document}
+
+	
+\frontmatter						% Nummereres med romerske tal.
+\let\cleardoublepage\clearpage
+\include{Filer/Forside}
+\include{Filer/Abstract}
+\include{Filer/Resume}
+\include{Filer/Forord}
+\include{Filer/Forkortelser}
+\include{Filer/Formler}
+
+%\cleardoublepage	
+	
+%\tableofcontents*                   % Indsætter en indholdsfortegnelse før Indledning.
+%\addcontentsline{toc}{List of Figures}	%Tilføjer liste af figurer i indholdsfortegnelsen. 
+
+\mainmatter                         % Her findes de nummererede kapitler modsat \frontmatter og \backmatter. Nummereres med arabiske tal.
+
+\include{Filer/Indledning}
+\include{Filer/Metoder}
+\include{Filer/MTV-Elementer}
+\include{Filer/Konklusion}
+\include{Filer/Perspektivering}
+\include{Filer/Referencer}			%Skal den være der i sidste ende? 
+
+\include{Filer/Bilag}
+
+
+\backmatter
+\bibliography{bibliografi/Ref}    % Sætter bibliografien bagerst i dokumentet. Bruger bib-filen PRJ3.
+\newpage
+%\listoffigures	%Figurliste
+%\listoftables	%Liste over alle tabeller
+
+\end{document}
