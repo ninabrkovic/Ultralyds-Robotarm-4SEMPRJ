@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.2.19)  17 FEB 2016 15:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.2.19)  18 FEB 2016 11:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1683,8 +1683,9 @@ Package: nccmath 2005/02/21 v1.2 Additional Math Commands (NCC)
 (./Filer/Forside.aux) (./Filer/Abstract.aux) (./Filer/Resume.aux)
 (./Filer/Forord.aux) (./Filer/Forkortelser.aux) (./Filer/Formler.aux)
 (./Filer/Indledning.aux) (./Filer/Metoder.aux) (./Filer/MTV-Elementer.aux)
-(./Filer/Konklusion.aux) (./Filer/Perspektivering.aux) (./Filer/Referencer.aux)
-(./Filer/Bilag.aux))
+(./Filer/Teknologi.aux) (./Filer/Patient_etik.aux) (./Filer/Organisation.aux)
+(./Filer/OEkonomi.aux) (./Filer/Konklusion.aux) (./Filer/Perspektivering.aux)
+(./Filer/Referencer.aux) (./Filer/Bilag.aux))
 \openout1 = `MTV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -1701,7 +1702,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 13.
- (c:/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(c:/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 13.
@@ -1997,22 +1999,6 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 3.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 4.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 5.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 5.
 )
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 34.
@@ -2027,9 +2013,9 @@ Package babel Info: Redefining danish shorthand "~
 
 
 ]
-\openout2 = `Filer/Konklusion.aux'.
+\openout2 = `Filer/Teknologi.aux'.
 
- (./Filer/Konklusion.tex
+ (./Filer/Teknologi.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2048,10 +2034,10 @@ Package babel Info: Redefining danish shorthand "~
 
 
 ]
-\openout2 = `Filer/Perspektivering.aux'.
+\openout2 = `Filer/Patient_etik.aux'.
 
 
-(./Filer/Perspektivering.tex
+(./Filer/Patient_etik.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2070,9 +2056,9 @@ Package babel Info: Redefining danish shorthand "~
 
 
 ]
-\openout2 = `Filer/Referencer.aux'.
+\openout2 = `Filer/Organisation.aux'.
 
- (./Filer/Referencer.tex
+ (./Filer/Organisation.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2091,10 +2077,31 @@ Package babel Info: Redefining danish shorthand "~
 
 
 ]
-\openout2 = `Filer/Bilag.aux'.
+\openout2 = `Filer/OEkonomi.aux'.
 
 
-(./Filer/Bilag.tex
+(./Filer/OEkonomi.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 38.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 38.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 38.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 38.
+ [8
+
+
+
+]
+\openout2 = `Filer/Konklusion.aux'.
+
+ (./Filer/Konklusion.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2108,7 +2115,72 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 39.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 39.
- [8
+ [9
+
+
+
+]
+\openout2 = `Filer/Perspektivering.aux'.
+
+
+(./Filer/Perspektivering.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 40.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 40.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 40.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 40.
+ [10
+
+
+
+]
+\openout2 = `Filer/Referencer.aux'.
+
+ (./Filer/Referencer.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 41.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 41.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 41.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 41.
+ [11
+
+
+
+]
+\openout2 = `Filer/Bilag.aux'.
+
+
+(./Filer/Bilag.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 43.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 43.
+ [12
 
 
 
@@ -2117,46 +2189,47 @@ No file MTV.bbl.
 
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 52.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 48.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
+(babel)             in language  on input line 52.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
 (./MTV.aux (./Filer/Forside.aux) (./Filer/Abstract.aux) (./Filer/Resume.aux)
 (./Filer/Forord.aux) (./Filer/Forkortelser.aux) (./Filer/Formler.aux)
 (./Filer/Indledning.aux) (./Filer/Metoder.aux) (./Filer/MTV-Elementer.aux)
-(./Filer/Konklusion.aux) (./Filer/Perspektivering.aux) (./Filer/Referencer.aux)
-(./Filer/Bilag.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
+(./Filer/Teknologi.aux) (./Filer/Patient_etik.aux) (./Filer/Organisation.aux)
+(./Filer/OEkonomi.aux) (./Filer/Konklusion.aux) (./Filer/Perspektivering.aux)
+(./Filer/Referencer.aux) (./Filer/Bilag.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
 Package rerunfilecheck Info: File `MTV.out' has not changed.
-(rerunfilecheck)             Checksum: 6929A40D01E70808B82BF832CC508281;781.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
+(rerunfilecheck)             Checksum: 94DE409D40422EB146FCDEFA11B55AE2;732.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 27512 strings out of 493109
- 486594 string characters out of 6138587
- 813741 words of memory out of 5000000
- 30480 multiletter control sequences out of 15000+600000
- 23151 words of font info for 60 fonts, out of 8000000 for 9000
+ 27550 strings out of 493109
+ 487370 string characters out of 6138587
+ 814993 words of memory out of 5000000
+ 30488 multiletter control sequences out of 15000+600000
+ 21608 words of font info for 58 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  40i,12n,40p,10456b,788s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texl
 ive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2014/texmf-dist/fon
 ts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2014/texmf-dist/fonts/type1/p
-ublic/cm-super/sfbx1440.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-s
-uper/sfcc1440.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1
-728.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c
-:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/
-2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2014/texmf
--dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2014/texmf-dist/font
-s/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2014/texmf-dist/fonts/type1/pu
-blic/cm-super/sfti1095.pfb><c:/texlive/2014/texmf-dist/fonts/type1/urw/bookman/
-ubkd8a.pfb><c:/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on MTV.pdf (14 pages, 172669 bytes).
+ublic/cm-super/sfcc1440.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-s
+uper/sfcc1728.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0
+800.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c
+:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/
+2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2014/texmf
+-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2014/texmf-dist/font
+s/type1/public/cm-super/sfti1095.pfb><c:/texlive/2014/texmf-dist/fonts/type1/ur
+w/bookman/ubkd8a.pfb><c:/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkl8a
+.pfb>
+Output written on MTV.pdf (18 pages, 162729 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
+ 210 PDF objects out of 1000 (max. 8388607)
+ 175 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
  134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
