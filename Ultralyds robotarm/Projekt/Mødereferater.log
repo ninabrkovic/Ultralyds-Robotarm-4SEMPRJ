@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  23 FEB 2016 10:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  2 MAR 2016 08:24
 entering extended mode
 **Mødereferater.tex
 (Mødereferater.tex
@@ -1756,7 +1756,8 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 Package: nccmath 2005/02/21 v1.2 Additional Math Commands (NCC)
 \NCC@fracrulewidth=\dimen311
 )
-(Mødereferater.aux (Mreferat/18-02-2016.aux) (Mreferat/23-02-2016.aux))
+(Mødereferater.aux (Mreferat/18-02-2016.aux) (Mreferat/23-02-2016.aux)
+(Mreferat/01-03-2016.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
@@ -1911,63 +1912,96 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 26.
 [3
 
 
-]) 
+]) (Mreferat/01-03-2016.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 40.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 40.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 40.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 40.
+[4
+
+
+]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 79.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 79.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 79.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 79.
+ [5]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 99.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 99.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 99.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 99.
+ [6]) 
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 13.
+(babel)             in language  on input line 12.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 13.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 13.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 13.
-(Mødereferater.aux (Mreferat/18-02-2016.aux) (Mreferat/23-02-2016.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 13.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 13.
-
-
-Package rerunfilecheck Warning: File `Mødereferater.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Mødereferater.out':
-(rerunfilecheck)             Before: 54A621E6FF200A073FFD9B3C6BDFB290;240
-(rerunfilecheck)             After:  C7FDD99CDD04CA6C53FAE13B4E01D03A;177.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 13.
+(babel)             in language  on input line 12.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 12.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 12.
+(Mødereferater.aux (Mreferat/18-02-2016.aux) (Mreferat/23-02-2016.aux)
+(Mreferat/01-03-2016.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 12.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 12.
+Package rerunfilecheck Info: File `Mødereferater.out' has not changed.
+(rerunfilecheck)             Checksum: A3532779ADDECF5D6E031EA4964CB373;240.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 12.
  ) 
 Here is how much of TeX's memory you used:
- 28354 strings out of 493698
- 511552 string characters out of 3141969
- 839461 words of memory out of 3000000
- 31278 multiletter control sequences out of 15000+200000
+ 28376 strings out of 493698
+ 511890 string characters out of 3141969
+ 840461 words of memory out of 3000000
+ 31284 multiletter control sequences out of 15000+200000
  17001 words of font info for 52 fonts, out of 3000000 for 9000
  1027 hyphenation exceptions out of 8191
  48i,12n,40p,10492b,941s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section*.4} has been referenced but does not exis
-t, replaced by a fixed one
-
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{C:
-/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{
+C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{C:
+/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
  (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files (x
 86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program Files (x86)
 /MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files (x86)/Mi
 KTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on Mødereferater.pdf (3 pages, 91864 bytes).
+Output written on Mødereferater.pdf (6 pages, 113852 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
+ 96 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
