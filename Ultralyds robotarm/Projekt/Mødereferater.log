@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  8 MAR 2016 12:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  8 MAR 2016 13:01
 entering extended mode
 **Mødereferater.tex
 (Mødereferater.tex
@@ -2000,8 +2000,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 13.
 (Mreferat/01-03-2016.aux) (Mreferat/03-03-2016.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 13.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 13.
-Package rerunfilecheck Info: File `Mødereferater.out' has not changed.
-(rerunfilecheck)             Checksum: 1EFD42100F7BD5D52D4E3E4C0D6C1DBB;303.
+
+
+Package rerunfilecheck Warning: File `Mødereferater.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Mødereferater.out':
+(rerunfilecheck)             Before: 1EFD42100F7BD5D52D4E3E4C0D6C1DBB;303
+(rerunfilecheck)             After:  623A6963344F71059EFE8C7ADD292C71;303.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 13.
  ) 
 Here is how much of TeX's memory you used:
