@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  17 MAR 2016 13:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  31 MAR 2016 12:15
 entering extended mode
 **Logbog.tex
 (Logbog.tex
@@ -1758,7 +1758,7 @@ Package: nccmath 2005/02/21 v1.2 Additional Math Commands (NCC)
 )
 (Logbog.aux (Logbogfiler/16-02-2016.aux) (Logbogfiler/23-02-2016.aux)
 (Logbogfiler/03-03-2016.aux) (Logbogfiler/08-03-2016.aux)
-(Logbogfiler/15-03-2016.aux))
+(Logbogfiler/15-03-2016.aux) (Logbogfiler/17-03-2016.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
@@ -1966,7 +1966,7 @@ Package babel Info: Redefining danish shorthand "~
 
 
 
-] <Figurer/scanning.jpg, id=81, 432.306pt x 38.763pt>
+] <Figurer/scanning.jpg, id=89, 432.306pt x 38.763pt>
 File: Figurer/scanning.jpg Graphic file (type jpg)
 
 <use Figurer/scanning.jpg>
@@ -2029,19 +2029,41 @@ Package babel Info: Redefining danish shorthand "~
 
 
 
+]) (Logbogfiler/31-03-2016.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 24.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 24.
+ [9
+
+
+
 ]) 
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 15.
+(babel)             in language  on input line 16.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 15.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 15.
+(babel)             in language  on input line 16.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 16.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 16.
 (Logbog.aux (Logbogfiler/16-02-2016.aux) (Logbogfiler/23-02-2016.aux)
 (Logbogfiler/03-03-2016.aux) (Logbogfiler/08-03-2016.aux)
-(Logbogfiler/15-03-2016.aux) (Logbogfiler/17-03-2016.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 15.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 15.
+(Logbogfiler/15-03-2016.aux) (Logbogfiler/17-03-2016.aux)
+(Logbogfiler/31-03-2016.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 16.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 16.
 
 
 Package rerunfilecheck Warning: File `Logbog.out' has changed.
@@ -2049,18 +2071,18 @@ Package rerunfilecheck Warning: File `Logbog.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Logbog.out':
-(rerunfilecheck)             Before: 2CBE192FE6322CBA6C2ED1624EFA5C4C;534
-(rerunfilecheck)             After:  50EA15EB4F7EF7E31F63BF4DE5A40C12;645.
+(rerunfilecheck)             Before: 50EA15EB4F7EF7E31F63BF4DE5A40C12;645
+(rerunfilecheck)             After:  65899CD074FF989B2FDED253C4F2BAC2;756.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 15.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 16.
  ) 
 Here is how much of TeX's memory you used:
- 28437 strings out of 493698
- 512921 string characters out of 3141969
+ 28462 strings out of 493698
+ 513342 string characters out of 3141969
  839445 words of memory out of 3000000
- 31305 multiletter control sequences out of 15000+200000
+ 31317 multiletter control sequences out of 15000+200000
  17001 words of font info for 52 fonts, out of 3000000 for 9000
  1027 hyphenation exceptions out of 8191
  48i,12n,40p,10484b,852s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2072,9 +2094,9 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files
 6)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on Logbog.pdf (8 pages, 159415 bytes).
+Output written on Logbog.pdf (9 pages, 163664 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
