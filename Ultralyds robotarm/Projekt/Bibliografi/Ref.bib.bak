@@ -1,0 +1,15 @@
+% Encoding: UTF-8
+
+@Book{HP,
+  title =     {Harry Potter},
+  publisher = {Ditte},
+  year =      {2001},
+  author =    {RK ROWLIng}
+}
+
+@Book{Husted,
+  title =     {Etik og værdier i sygeplejen},
+  publisher = {Hans Reitzels},
+  year =      {2013},
+  author =    {Jørgen Husted}
+}
