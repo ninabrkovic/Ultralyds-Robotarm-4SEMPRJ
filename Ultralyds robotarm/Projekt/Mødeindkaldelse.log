@@ -1,31 +1,31 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.2.19)  17 APR 2016 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  18 APR 2016 07:47
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**Mødeindkaldelse.tex
-(./Mødeindkaldelse.tex
+**MÃ¸deindkaldelse.tex
+(MÃ¸deindkaldelse.tex
 LaTeX2e <2014/05/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(./Dokumentklassen.tex (c:/texlive/2014/texmf-dist/tex/latex/memoir/memoir.cls
-Document Class: memoir 2013/05/30 v3.7b configurable book, report, article docu
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+(Dokumentklassen.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
+Document Class: memoir 2015/03/05 v3.7c configurable book, report, article docu
 ment class
 \onelineskip=\skip41
 \lxvchars=\skip42
 \xlvchars=\skip43
 \@memcnta=\count79
 \c@@memmarkcntra=\count80
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+\l@nohyphenation=\language69
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(c:/texlive/2014/texmf-dist/tex/latex/ifetex/ifetex.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty"
 Package: ifetex 2011/12/15 v1.2 ifetex
 
-(c:/texlive/2014/texmf-dist/tex/plain/ifetex/ifetex.tex))
-(c:/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\plain\ifetex\ifetex.tex"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -34,15 +34,15 @@ Package ifluatex Info: LuaTeX not detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-(c:/texlive/2014/texmf-dist/tex/latex/base/fleqn.clo
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fleqn.clo"
 File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
 \mathindent=\dimen102
 )
-(c:/texlive/2014/texmf-dist/tex/latex/etex-pkg/etex.sty
-Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
 \et@xins=\count81
 )
-(c:/texlive/2014/texmf-dist/tex/latex/memoir/mem11.clo
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\mem11.clo"
 File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 )
 \binding=\skip48
@@ -195,8 +195,8 @@ File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 \afterepigraphskip=\skip125
 \epigraphwidth=\skip126
 \epigraphrule=\skip127
-LaTeX Info: Redefining \em on input line 7492.
-LaTeX Info: Redefining \emph on input line 7500.
+LaTeX Info: Redefining \em on input line 7514.
+LaTeX Info: Redefining \emph on input line 7522.
 \tocentryskip=\skip128
 \tocbaseline=\skip129
 \cftparskip=\skip130
@@ -279,8 +279,8 @@ LaTeX Info: Redefining \emph on input line 7500.
 \FrameRule=\dimen146
 \FrameSep=\dimen147
 \c@cp@cntr=\count119
-LaTeX Info: Redefining \: on input line 11958.
-LaTeX Info: Redefining \! on input line 11960.
+LaTeX Info: Redefining \: on input line 11980.
+LaTeX Info: Redefining \! on input line 11982.
 \c@ism@mctr=\count120
 \c@xsm@mctr=\count121
 \c@csm@mctr=\count122
@@ -341,22 +341,22 @@ Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 
-(c:/texlive/2014/texmf-dist/tex/latex/memoir/mempatch.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\mempatch.sty"
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
-(c:/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2014/04/30 v1.2b Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
 
-(c:/texlive/2014/texmf-dist/tex/latex/base/utf8.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(c:/texlive/2014/texmf-dist/tex/latex/base/t1enc.dfu
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -506,7 +506,7 @@ File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(c:/texlive/2014/texmf-dist/tex/latex/base/ot1enc.dfu
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -537,7 +537,7 @@ File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(c:/texlive/2014/texmf-dist/tex/latex/base/omsenc.dfu
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -561,30 +561,36 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(c:/texlive/2014/texmf-dist/tex/generic/babel/babel.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel\babel.sty"
 Package: babel 2014/09/25 3.9l The Babel package
 
-(c:/texlive/2014/texmf-dist/tex/generic/babel-danish/danish.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-danish\danish.ldf"
 Language: danish 2009/09/19 v1.3r Danish support from the babel system
 
-(c:/texlive/2014/texmf-dist/tex/generic/babel/babel.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel\babel.def"
 File: babel.def 2014/09/25 3.9l Babel common definitions
 \babel@savecnt=\count138
 \U@D=\dimen148
 )
 Package babel Info: Making " an active character on input line 82.
 ))
-(c:/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(c:/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(c:/texlive/2014/texmf-dist/tex/latex/ms/ragged2e.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
-(c:/texlive/2014/texmf-dist/tex/latex/ms/everysel.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip185
@@ -602,42 +608,42 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip197
 \JustifyingParindent=\skip198
 )
-(c:/texlive/2014/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\anyfontsize\anyfontsize.sty"
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 )
-(c:/texlive/2014/texmf-dist/tex/latex/base/fixltx2e.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
 Package: fixltx2e 2014/09/29 v1.1s fixes to LaTeX
 LaTeX Info: Redefining \em on input line 430.
 LaTeX Info: Redefining \textsubscript on input line 434.
 )
-(c:/texlive/2014/texmf-dist/tex/latex/lastpage/lastpage.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty"
 Package: lastpage 2013/01/28 v1.2l Refers to last page's name (HMM; JPG)
 )
-(c:/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks24
 )
-(c:/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(c:/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(c:/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count139
@@ -645,7 +651,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
 )
-(c:/texlive/2014/texmf-dist/tex/latex/tools/multicol.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2014/10/28 v1.8i multicolumn formatting (FMi)
 \c@tracingmulticols=\count140
 \mult@box=\box29
@@ -694,10 +700,10 @@ Package: multicol 2014/10/28 v1.8i multicolumn formatting (FMi)
 \colbreak@box=\box54
 \mc@col@check@num=\count148
 )
-(c:/texlive/2014/texmf-dist/tex/latex/rotating/rotating.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 
-(c:/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count149
@@ -706,10 +712,10 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box55
 \rot@mess@toks=\toks25
 )
-(c:/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(c:/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -723,13 +729,13 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 
-(c:/texlive/2014/texmf-dist/tex/latex/graphics/dvipsnam.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
 File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
 ))
-(c:/texlive/2014/texmf-dist/tex/latex/base/flafter.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\flafter.sty"
 Package: flafter 2014/04/24 v1.2n Standard LaTeX floats after reference (FMi)
 )
-(c:/texlive/2014/texmf-dist/tex/latex/float/float.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count150
 \float@exts=\toks26
@@ -737,24 +743,24 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks27
 \@floatcapt=\box57
 )
-(c:/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip203
 
 For additional information on amsmath, use the `?' option.
-(c:/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-(c:/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks28
 \ex@=\dimen160
 ))
-(c:/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen161
 )
-(c:/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count151
@@ -795,26 +801,26 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(c:/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(c:/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(c:/texlive/2014/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\stmaryrd\stmaryrd.sty"
 Package: stmaryrd 1994/03/03 St Mary's Road symbol package
 \symstmry=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
 (Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 )
-(c:/texlive/2014/texmf-dist/tex/latex/mathtools/mathtools.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
 Package: mathtools 2014/07/16 v1.15 mathematical typesetting tools
 
-(c:/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count163
 \calc@Bcount=\count164
@@ -827,7 +833,7 @@ LaTeX Info: Redefining \addtolength on input line 76.
 \calc@Ccount=\count165
 \calc@Cskip=\skip208
 )
-(c:/texlive/2014/texmf-dist/tex/latex/mathtools/mhsetup.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
@@ -844,7 +850,7 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen176
 \l_MT_below_shortintertext_sep=\dimen177
 )
-(c:/texlive/2014/texmf-dist/tex/latex/base/textcomp.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -859,12 +865,12 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
 
-(c:/texlive/2014/texmf-dist/tex/latex/base/ts1enc.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-(c:/texlive/2014/texmf-dist/tex/latex/base/ts1enc.dfu
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
 File: ts1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -999,25 +1005,25 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 )
-(c:/texlive/2014/texmf-dist/tex/latex/mhchem/rsphrase.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mhchem\rsphrase.sty"
 Package: rsphrase 2011/06/03 v3.11 Risk and Safety Phrases (mhchem bundle)
 )
-(c:/texlive/2014/texmf-dist/tex/latex/mhchem/mhchem.sty
-Package: mhchem 2015/02/09 v3.19 for typesetting chemical formulae
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mhchem\mhchem.sty"
+Package: mhchem 2015/03/13 v3.21 for typesetting chemical formulae
 
-(c:/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2015/02/13 v5524 L3 programming layer (loader) 
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+Package: expl3 2015/03/01 v5547 L3 programming layer (loader) 
 
-(c:/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2015/02/13 v5524 L3 programming layer (code) 
-L3 Module: l3bootstrap 2015/01/27 v5500 L3 Bootstrap code
-L3 Module: l3names 2014/08/22 v5343 L3 Namespace for primitives
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+Package: expl3 2015/03/01 v5547 L3 programming layer (code) 
+L3 Module: l3bootstrap 2015/02/28 v5542 L3 Bootstrap code
+L3 Module: l3names 2015/02/24 v5535 L3 Namespace for primitives
 L3 Module: l3basics 2015/01/27 v5500 L3 Basic definitions
 L3 Module: l3expan 2014/11/27 v5472 L3 Argument expansion
 L3 Module: l3tl 2015/01/27 v5500 L3 Token lists
-L3 Module: l3str 2014/08/24 v5368 L3 Strings
+L3 Module: l3str 2015/03/01 v5545 L3 Strings
 L3 Module: l3seq 2014/08/23 v5354 L3 Sequences and stacks
-L3 Module: l3int 2014/09/14 v5421 L3 Integers
+L3 Module: l3int 2015/02/21 v5529 L3 Integers
 \c_max_int=\count167
 \l_tmpa_int=\count168
 \l_tmpb_int=\count169
@@ -1029,7 +1035,7 @@ L3 Module: l3prg 2014/08/23 v5354 L3 Control structures
 L3 Module: l3clist 2014/08/23 v5354 L3 Comma separated lists
 L3 Module: l3token 2014/09/15 v5422 L3 Experimental token manipulation
 L3 Module: l3prop 2014/08/23 v5354 L3 Property lists
-L3 Module: l3msg 2014/08/24 v5358 L3 Messages
+L3 Module: l3msg 2015/02/26 v5537 L3 Messages
 L3 Module: l3file 2014/08/24 v5369 L3 File and I/O operations
 \l_iow_line_count_int=\count173
 \l__iow_target_count_int=\count174
@@ -1096,7 +1102,7 @@ L3 Module: l3coffins 2014/08/23 v5354 L3 Coffin code layer
 \l__coffin_display_x_dim=\dimen192
 \l__coffin_display_y_dim=\dimen193
 L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
-L3 Module: l3candidates 2015/02/12 v5523 L3 Experimental additions to l3kernel
+L3 Module: l3candidates 2015/03/01 v5544 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen194
 \l__box_bottom_dim=\dimen195
 \l__box_left_dim=\dimen196
@@ -1115,15 +1121,87 @@ Normal \dimen register pool exhausted, switching to extended pool.
 \l__coffin_scaled_total_height_dim=\dimen266
 \l__coffin_scaled_width_dim=\dimen267
 )
-(c:/texlive/2014/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
-File: l3unicode-data.def 2015/02/12 v5523 L3 Unicode data
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3unicode-data.def"
+File: l3unicode-data.def 2015/03/01 v5544 L3 Unicode data
 )
-(c:/texlive/2014/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2015/02/12 v5523 L3 Experimental driver: PDF mode
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2015/03/01 v5544 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count189
 ))
-\__mhchem_option_version_int=\count190
-Variant \str_if_eq:VnTF already defined; not changing it on line 94
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
+Package: l3keys2e 2014/11/25 v5471 LaTeX2e option processing using LaTeX3 keys
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3regex.st
+y"
+Package: l3regex 2014/11/25 v5471 L3 Experimental regular expressions
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3tl-build.s
+ty"
+Package: l3tl-build 2014/08/25 v5378 L3 Experimental token list construction
+\l__tl_build_start_index_int=\count190
+\l__tl_build_index_int=\count191
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3tl-analysi
+s.sty"
+Package: l3tl-analysis 2014/05/06 v4745 L3 Experimental token lists analysis
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3str.sty"
+Package: l3str 2014/11/25 v5471 L3 Experimental strings
+)
+\l__tl_analysis_normal_int=\count192
+\l__tl_analysis_index_int=\count193
+\l__tl_analysis_nesting_int=\count194
+\l__tl_analysis_type_int=\count195
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3flag.sty
+"
+Package: l3flag 2014/11/25 v5471 L3 Experimental flags
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3str-conver
+t.sty"
+Package: l3str-convert 2014/06/03 v5028 L3 Experimental string encoding convers
+ions
+\l__str_internal_int=\count196
+Normal \count register pool exhausted, switching to extended pool.
+\c__str_replacement_char_int=\count277
+)
+\l__regex_internal_a_int=\count278
+\l__regex_internal_b_int=\count279
+\l__regex_internal_c_int=\count280
+\l__regex_balance_int=\count281
+\l__regex_group_level_int=\count282
+\l__regex_mode_int=\count283
+\l__regex_catcodes_int=\count284
+\l__regex_default_catcodes_int=\count285
+\c__regex_catcode_D_int=\count286
+\c__regex_catcode_S_int=\count287
+\c__regex_catcode_L_int=\count288
+\c__regex_catcode_O_int=\count289
+\c__regex_catcode_A_int=\count290
+\c__regex_all_catcodes_int=\count291
+\l__regex_show_lines_int=\count292
+\l__regex_min_state_int=\count293
+\l__regex_max_state_int=\count294
+\l__regex_left_state_int=\count295
+\l__regex_right_state_int=\count296
+\l__regex_capturing_group_int=\count297
+\l__regex_min_pos_int=\count298
+\l__regex_max_pos_int=\count299
+\l__regex_current_pos_int=\count300
+\l__regex_start_pos_int=\count301
+\l__regex_success_pos_int=\count302
+\l__regex_current_char_int=\count303
+\l__regex_current_catcode_int=\count304
+\l__regex_last_char_int=\count305
+\l__regex_case_changed_char_int=\count306
+\l__regex_current_state_int=\count307
+\l__regex_step_int=\count308
+\l__regex_min_active_int=\count309
+\l__regex_max_active_int=\count310
+\l__regex_replacement_csnames_int=\count311
+\l__regex_match_count_int=\count312
+\l__regex_submatch_int=\count313
+\l__regex_zeroth_submatch_int=\count314
+)
+Variant \str_if_eq:VnTF already defined; not changing it on line 107
 \mhchem@arrow@params=\toks33
 \mhchem@arrowlength@pgf=\skip262
 \mhchem@bondwidth=\skip263
@@ -1131,73 +1209,69 @@ Variant \str_if_eq:VnTF already defined; not changing it on line 94
 \mhchem@smallbondwidth@tmpA=\skip265
 \mhchem@smallbondwidth@tmpB=\skip266
 \mhchem@smallbondwidth=\skip267
-\mhchem@prepostscript@tmp@i=\skip268
-\mhchem@prepostscript@tmp@ii=\skip269
+\__mhchem_prepostscript_leftwidth=\skip268
+\__mhchem_prepostscript_leftwidth_ii=\skip269
 \mhchem@mathbox@tmp@i=\skip270
 \mhchem@mathbox@tmp@ii=\skip271
 \mhchem@minispace@tmp=\skip272
-\mhchem@option@minussidebearingleft=\skip273
-\mhchem@option@minussidebearingright=\skip274
-)
-(c:/texlive/2014/texmf-dist/tex/latex/siunitx/siunitx.sty
-(c:/texlive/2014/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+\mhchem@minibackspace@tmp=\skip273
+\__mhchem_option_version_int=\count315
+\mhchem@option@minussidebearingleft=\dimen268
+\mhchem@option@minussidebearingright=\dimen269
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
 Package: xparse 2014/11/25 v5471 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count191
-\l__xparse_m_args_int=\count192
-\l__xparse_mandatory_args_int=\count193
-\l__xparse_processor_int=\count194
-\l__xparse_v_nesting_int=\count195
+\l__xparse_current_arg_int=\count316
+\l__xparse_m_args_int=\count317
+\l__xparse_mandatory_args_int=\count318
+\l__xparse_processor_int=\count319
+\l__xparse_v_nesting_int=\count320
 )
 Package: siunitx 2015/01/21 v2.6e A comprehensive (SI) units package
-
-(c:/texlive/2014/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2014/11/25 v5471 LaTeX2e option processing using LaTeX3 keys
-)
 Variant \tl_if_blank:VTF already defined; not changing it on line 50
 \l__siunitx_tmp_box=\box75
-\l__siunitx_tmp_dim=\dimen268
-\l__siunitx_tmp_int=\count196
+\l__siunitx_tmp_dim=\dimen270
+\l__siunitx_tmp_int=\count321
 Variant \prop_get:NVNT already defined; not changing it on line 380
 Variant \prop_get:NVNF already defined; not changing it on line 381
 Variant \prop_get:NVNTF already defined; not changing it on line 382
-Normal \count register pool exhausted, switching to extended pool.
-\l__siunitx_number_mantissa_length_int=\count277
-\l__siunitx_number_uncert_length_int=\count278
-\l__siunitx_round_int=\count279
-\l__siunitx_process_decimal_int=\count280
-\l__siunitx_process_uncertainty_int=\count281
-\l__siunitx_process_fixed_int=\count282
-\l__siunitx_process_integer_min_int=\count283
-\l__siunitx_process_precision_int=\count284
-\l__siunitx_group_min_int=\count285
+\l__siunitx_number_mantissa_length_int=\count322
+\l__siunitx_number_uncert_length_int=\count323
+\l__siunitx_round_int=\count324
+\l__siunitx_process_decimal_int=\count325
+\l__siunitx_process_uncertainty_int=\count326
+\l__siunitx_process_fixed_int=\count327
+\l__siunitx_process_integer_min_int=\count328
+\l__siunitx_process_precision_int=\count329
+\l__siunitx_group_min_int=\count330
 \l__siunitx_angle_marker_box=\box76
 \l__siunitx_angle_unit_box=\box77
-\l__siunitx_angle_marker_dim=\dimen269
-\l__siunitx_angle_unit_dim=\dimen270
-\l__siunitx_unit_int=\count286
-\l__siunitx_unit_denominator_int=\count287
-\l__siunitx_unit_numerator_int=\count288
-\l__siunitx_unit_prefix_int=\count289
-\l__siunitx_unit_prefix_base_int=\count290
-\l__siunitx_unit_prefix_gram_int=\count291
-\l__siunitx_number_product_int=\count292
-\c__siunitx_one_fill_skip=\skip275
-\l__siunitx_table_unit_align_skip=\skip276
-\l__siunitx_table_exponent_dim=\dimen271
-\l__siunitx_table_integer_dim=\dimen272
-\l__siunitx_table_mantissa_dim=\dimen273
-\l__siunitx_table_marker_dim=\dimen274
-\l__siunitx_table_result_dim=\dimen275
-\l__siunitx_table_uncert_dim=\dimen276
-\l__siunitx_table_fill_pre_dim=\dimen277
-\l__siunitx_table_fill_post_dim=\dimen278
-\l__siunitx_table_fill_mid_dim=\dimen279
+\l__siunitx_angle_marker_dim=\dimen271
+\l__siunitx_angle_unit_dim=\dimen272
+\l__siunitx_unit_int=\count331
+\l__siunitx_unit_denominator_int=\count332
+\l__siunitx_unit_numerator_int=\count333
+\l__siunitx_unit_prefix_int=\count334
+\l__siunitx_unit_prefix_base_int=\count335
+\l__siunitx_unit_prefix_gram_int=\count336
+\l__siunitx_number_product_int=\count337
+\c__siunitx_one_fill_skip=\skip274
+\l__siunitx_table_unit_align_skip=\skip275
+\l__siunitx_table_exponent_dim=\dimen273
+\l__siunitx_table_integer_dim=\dimen274
+\l__siunitx_table_mantissa_dim=\dimen275
+\l__siunitx_table_marker_dim=\dimen276
+\l__siunitx_table_result_dim=\dimen277
+\l__siunitx_table_uncert_dim=\dimen278
+\l__siunitx_table_fill_pre_dim=\dimen279
+\l__siunitx_table_fill_post_dim=\dimen280
+\l__siunitx_table_fill_mid_dim=\dimen281
 \l__siunitx_table_pre_box=\box78
 \l__siunitx_table_post_box=\box79
 \l__siunitx_table_mantissa_box=\box80
 \l__siunitx_table_result_box=\box81
-\l__siunitx_table_number_align_skip=\skip277
-\l__siunitx_table_text_align_skip=\skip278
+\l__siunitx_table_number_align_skip=\skip276
+\l__siunitx_table_text_align_skip=\skip277
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1317,76 +1391,78 @@ Normal \count register pool exhausted, switching to extended pool.
 .................................................
 \g__file_internal_ior=\read2
 
-(c:/texlive/2014/texmf-dist/tex/latex/beamer/translator/translator.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator
+.sty"
 Package: translator 2010/06/12 ver 1.10
 
-(c:/texlive/2014/texmf-dist/tex/latex/beamer/translator/translator-language-map
-pings.tex))) (c:/texlive/2014/texmf-dist/tex/latex/tools/varioref.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator
+-language-mappings.tex")))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\varioref.sty"
 Package: varioref 2014/10/28 v1.5a package for extended references (FMi)
-\c@vrcnt=\count293
+\c@vrcnt=\count338
 )
-(c:/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip279
-\bibsep=\skip280
+\bibhang=\skip278
+\bibsep=\skip279
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count294
+\c@NAT@ctr=\count339
 )
-(c:/texlive/2014/texmf-dist/tex/latex/tools/xr.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xr.sty"
 Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
-(c:/texlive/2014/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count295
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count340
 \lst@gtempboxa=\box82
 \lst@token=\toks34
-\lst@length=\count296
-\lst@currlwidth=\dimen280
-\lst@column=\count297
-\lst@pos=\count298
-\lst@lostspace=\dimen281
-\lst@width=\dimen282
-\lst@newlines=\count299
-\lst@lineno=\count300
-\lst@maxwidth=\dimen283
+\lst@length=\count341
+\lst@currlwidth=\dimen282
+\lst@column=\count342
+\lst@pos=\count343
+\lst@lostspace=\dimen283
+\lst@width=\dimen284
+\lst@newlines=\count344
+\lst@lineno=\count345
+\lst@maxwidth=\dimen285
 
-(c:/texlive/2014/texmf-dist/tex/latex/listings/lstmisc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
-\c@lstnumber=\count301
-\lst@skipnumbers=\count302
+\c@lstnumber=\count346
+\lst@skipnumbers=\count347
 \lst@framebox=\box83
 )
-(c:/texlive/2014/texmf-dist/tex/latex/listings/listings.cfg
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
 File: listings.cfg 2014/09/06 1.5e listings configuration
 ))
 Package: listings 2014/09/06 1.5e (Carsten Heinz)
 
-(c:/texlive/2014/texmf-dist/tex/latex/lipsum/lipsum.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count303
+\c@lips@count=\count348
 )
-(c:/texlive/2014/texmf-dist/tex/latex/enumitem/enumitem.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip281
-\enit@outerparindent=\dimen284
+\labelindent=\skip280
+\enit@outerparindent=\dimen286
 \enit@toks=\toks35
 \enit@inbox=\box84
-\enitdp@description=\count304
+\enitdp@description=\count349
 )
-(c:/texlive/2014/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
 Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
 
-(c:/texlive/2014/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
 Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
 
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 ))
-(c:/texlive/2014/texmf-dist/tex/latex/pdfpages/pppdftex.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
 File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box85
 \AM@toc@title=\toks36
-\c@AM@survey=\count305
+\c@AM@survey=\count350
 \AM@templatesizebox=\box86
 )
 
@@ -1409,7 +1485,7 @@ Sidefoothsep and sidefootwidth: 7pt and 49pt
 Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 ******************************************************
 
-(c:/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2014/09/06 1.5e listings language file
 )
 
@@ -1418,35 +1494,35 @@ To prepare we will now reset all captioning macros and configurations to kernel
  defaults, and then let the caption package take over. Please remember to use t
 he caption package interfaces in order to configure your captions. .
 
-(c:/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(c:/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen285
-\captionmargin@=\dimen286
-\captionwidth=\dimen287
-\caption@tempdima=\dimen288
-\caption@indent=\dimen289
-\caption@parindent=\dimen290
-\caption@hangindent=\dimen291
+\captionmargin=\dimen287
+\captionmargin@=\dimen288
+\captionwidth=\dimen289
+\caption@tempdima=\dimen290
+\caption@indent=\dimen291
+\caption@parindent=\dimen292
+\caption@hangindent=\dimen293
 )
-\c@ContinuedFloat=\count306
+\c@ContinuedFloat=\count351
 Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: rotating package is loaded.
 )
-(c:/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package hobsub Info: Skipping package `ifluatex' (already loaded).
@@ -1475,7 +1551,7 @@ Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
@@ -1483,24 +1559,24 @@ Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen292
-\Hy@linkcounter=\count307
-\Hy@pagecounter=\count308
+\@linkdim=\dimen294
+\Hy@linkcounter=\count352
+\Hy@pagecounter=\count353
 
-(c:/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count309
+\Hy@SavedSpaceFactor=\count354
 
-(c:/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -1510,17 +1586,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count310
+\c@Hy@tempcnt=\count355
 
-(c:/texlive/2014/texmf-dist/tex/latex/url/url.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen293
-\Fld@menulength=\count311
-\Field@Width=\dimen294
-\Fld@charsize=\dimen295
+\XeTeXLinkMargin=\dimen295
+\Fld@menulength=\count356
+\Field@Width=\dimen296
+\Fld@charsize=\dimen297
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -1530,34 +1606,34 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count312
-\c@Item=\count313
-\c@Hfootnote=\count314
+\Hy@abspage=\count357
+\c@Item=\count358
+\c@Hfootnote=\count359
 )
-(c:/texlive/2014/texmf-dist/tex/latex/memoir/memhfixc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\memhfixc.sty"
 Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
 ass
-\c@memhycontfloat=\count315
-\c@Hpagenote=\count316
+\c@memhycontfloat=\count360
+\c@Hpagenote=\count361
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(c:/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count317
-\c@bookmark@seq@number=\count318
+\Fld@listcount=\count362
+\c@bookmark@seq@number=\count363
 
-(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip282
+\Hy@SectionHShift=\skip281
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 189.
 
-(c:/texlive/2014/texmf-dist/tex/latex/cleveref/cleveref.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cleveref\cleveref.sty"
 Package: cleveref 2013/12/28 v0.19 Intelligent cross-referencing
 LaTeX Info: Redefining \Cref on input line 955.
 Package cleveref Info: `hyperref' support loaded on input line 2230.
@@ -1580,82 +1656,82 @@ LaTeX Info: Redefining \vrefrange on input line 2453.
 LaTeX Info: Redefining \fullref on input line 2453.
 Package cleveref Info: `listings' support loaded on input line 2950.
 )
-(c:/texlive/2014/texmf-dist/tex/latex/units/units.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\units\units.sty"
 Package: units 1998/08/04 v0.9b Typesetting units
 
-(c:/texlive/2014/texmf-dist/tex/latex/units/nicefrac.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\units\nicefrac.sty"
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
-\L@UnitsRaiseDisplaystyle=\skip283
-\L@UnitsRaiseTextstyle=\skip284
-\L@UnitsRaiseScriptstyle=\skip285
+\L@UnitsRaiseDisplaystyle=\skip282
+\L@UnitsRaiseTextstyle=\skip283
+\L@UnitsRaiseScriptstyle=\skip284
 ))
-(c:/texlive/2014/texmf-dist/tex/latex/tabu/tabu.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tabu\tabu.sty"
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 
-(c:/texlive/2014/texmf-dist/tex/latex/varwidth/varwidth.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box87
-\sift@deathcycles=\count319
-\@vwid@loff=\dimen296
-\@vwid@roff=\dimen297
+\sift@deathcycles=\count364
+\@vwid@loff=\dimen298
+\@vwid@roff=\dimen299
 )
-\c@taburow=\count320
-\tabu@nbcols=\count321
-\tabu@cnt=\count322
-\tabu@Xcol=\count323
-\tabu@alloc=\count324
-\tabu@nested=\count325
-\tabu@target=\dimen298
-\tabu@spreadtarget=\dimen299
-\tabu@naturalX=\dimen300
-\tabucolX=\dimen301
-\tabu@Xsum=\dimen302
-\extrarowdepth=\dimen303
-\abovetabulinesep=\dimen304
-\belowtabulinesep=\dimen305
-\tabustrutrule=\dimen306
+\c@taburow=\count365
+\tabu@nbcols=\count366
+\tabu@cnt=\count367
+\tabu@Xcol=\count368
+\tabu@alloc=\count369
+\tabu@nested=\count370
+\tabu@target=\dimen300
+\tabu@spreadtarget=\dimen301
+\tabu@naturalX=\dimen302
+\tabucolX=\dimen303
+\tabu@Xsum=\dimen304
+\extrarowdepth=\dimen305
+\abovetabulinesep=\dimen306
+\belowtabulinesep=\dimen307
+\tabustrutrule=\dimen308
 \tabu@thebody=\toks37
 \tabu@footnotes=\toks38
 \tabu@box=\box88
 \tabu@arstrutbox=\box89
 \tabu@hleads=\box90
 \tabu@vleads=\box91
-\tabu@cellskip=\skip286
+\tabu@cellskip=\skip285
 )
-(c:/texlive/2014/texmf-dist/tex/latex/tools/longtable.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip287
-\LTright=\skip288
-\LTpre=\skip289
-\LTpost=\skip290
-\LTchunksize=\count326
-\LTcapwidth=\dimen307
+\LTleft=\skip286
+\LTright=\skip287
+\LTpre=\skip288
+\LTpost=\skip289
+\LTchunksize=\count371
+\LTcapwidth=\dimen309
 \LT@head=\box92
 \LT@firsthead=\box93
 \LT@foot=\box94
 \LT@lastfoot=\box95
-\LT@cols=\count327
-\LT@rows=\count328
-\c@LT@tables=\count329
-\c@LT@chunks=\count330
+\LT@cols=\count372
+\LT@rows=\count373
+\c@LT@tables=\count374
+\c@LT@chunks=\count375
 \LT@p@ftn=\toks39
 )
-(c:/texlive/2014/texmf-dist/tex/latex/tabto-ltx/tabto.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tabto\tabto.sty"
 Package: tabto 2013/03/25  v 1.3  Another tabbing mechanism
-\CurrentLineWidth=\dimen308
+\CurrentLineWidth=\dimen310
 )
-(c:/texlive/2014/texmf-dist/tex/latex/breakurl/breakurl.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\breakurl\breakurl.sty"
 Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
 
-(c:/texlive/2014/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(c:/texlive/2014/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(c:/texlive/2014/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
 \XKV@toks=\toks40
 \XKV@tempa@toks=\toks41
 )
-\XKV@depth=\count331
+\XKV@depth=\count376
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 
@@ -1664,25 +1740,23 @@ Package breakurl Warning: You are using breakurl while processing via pdflatex.
 (breakurl)                \burl will be just a synonym of \url.
 (breakurl)                 on input line 48.
 
-) (c:/texlive/2014/texmf-dist/tex/latex/psnfss/pifont.sty
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
 Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
 LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
 
-(c:/texlive/2014/texmf-dist/tex/latex/psnfss/upzd.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Try loading font information for U+psy on input line 64.
 
-(c:/texlive/2014/texmf-dist/tex/latex/psnfss/upsy.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
 File: upsy.fd 2001/06/04 font definitions for U/psy.
 )))
-(c:/texlive/2014/texmf-dist/tex/latex/ncctools/nccmath.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ncctools\nccmath.sty"
 Package: nccmath 2005/02/21 v1.2 Additional Math Commands (NCC)
-\NCC@fracrulewidth=\dimen309
+\NCC@fracrulewidth=\dimen311
 )
-(./Mødeindkaldelse.aux (./Mindkaldelse/Mindkaldelse.aux))
-\openout1 = `Mødeindkaldelse.aux'.
-
+(MÃ¸deindkaldelse.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
@@ -1698,7 +1772,7 @@ LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 6.
 
-(c:/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 6.
@@ -1715,60 +1789,46 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
 (lastpage)             ! on input line 6.
 
-(c:/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count332
-\scratchdimen=\dimen310
+\scratchcounter=\count377
+\scratchdimen=\dimen312
 \scratchbox=\box96
-\nofMPsegments=\count333
-\nofMParguments=\count334
+\nofMPsegments=\count378
+\nofMParguments=\count379
 \everyMPshowfont=\toks42
-\MPscratchCnt=\count335
-\MPscratchDim=\dimen311
-\MPnumerator=\count336
-\makeMPintoPDFobject=\count337
+\MPscratchCnt=\count380
+\MPscratchDim=\dimen313
+\MPnumerator=\count381
+\makeMPintoPDFobject=\count382
 \everyMPtoPDFconversion=\toks43
-) (c:/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(c:/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-(c:/texlive/2014/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-
-dictionary/translator-basic-dictionary-English.dict
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-basic-dictionary\translator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(c:/texlive/2014/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
+"
 File: siunitx-abbreviations.cfg 2015/01/21 v2.6e siunitx: Abbreviated units
 )
-\c@lstlisting=\count338
+\c@lstlisting=\count383
 \AtBeginShipoutBox=\box97
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
-
-(c:/texlive/2014/texmf-dist/tex/latex/caption/ltcaption.sty
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
 Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 6.
 
-(c:/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count339
+\c@section@level=\count384
 LaTeX Info: Redefining \Ref on input line 513.
 )
 Redoing nameref's sectioning
@@ -1777,31 +1837,27 @@ LaTeX Info: Redefining \nameref on input line 6.
 LaTeX Info: Redefining \ref on input line 6.
 LaTeX Info: Redefining \pageref on input line 6.
 LaTeX Info: Redefining \nameref on input line 6.
-(./Mødeindkaldelse.out) (./Mødeindkaldelse.out)
+(MÃ¸deindkaldelse.out) (MÃ¸deindkaldelse.out)
 \@outlinefile=\write4
-\openout4 = `Mødeindkaldelse.out'.
-
 LaTeX Info: Redefining \Ref on input line 6.
-\c__siunitx_mathsf_int=\count340
+\c__siunitx_mathsf_int=\count385
 LaTeX Font Info:    Try loading font information for U+msa on input line 6.
 
-(c:/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 6.
 
-(c:/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+stmry on input line 6.
 
-(c:/texlive/2014/texmf-dist/tex/latex/stmaryrd/ustmry.fd)
-\c__siunitx_mathtt_int=\count341
-\openout2 = `Mindkaldelse/Mindkaldelse.aux'.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd")
+\c__siunitx_mathtt_int=\count386
 
-
-(./Mindkaldelse/Mindkaldelse.tex
-(c:/texlive/2014/texmf-dist/tex/latex/psnfss/t1pbk.fd)
+(Mindkaldelse/Mindkaldelse.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pbk.fd")
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1842,7 +1898,7 @@ Package babel Info: Redefining danish shorthand "~
 
 
 
-{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 50.
 Package babel Info: Redefining danish shorthand "~
@@ -2008,7 +2064,11 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 8.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 8.
- [6] 
+ [6]
+
+Package lastpage Warning: Rerun to get the references right on input line 13.
+
+
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 13.
@@ -2016,32 +2076,36 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 13.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 13.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 13.
-(./Mødeindkaldelse.aux (./Mindkaldelse/Mindkaldelse.aux))
+(MÃ¸deindkaldelse.aux (Mindkaldelse/Mindkaldelse.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 13.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 13.
-Package rerunfilecheck Info: File `Mødeindkaldelse.out' has not changed.
-(rerunfilecheck)             Checksum: 33E9BB6EB519846C3A07F453871D8C86;808.
+Package rerunfilecheck Info: File `MÃ¸deindkaldelse.out' has not changed.
+(rerunfilecheck)             Checksum: F0C2B02E6D8081CD4B6D7F0770E30499;820.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 13.
  ) 
 Here is how much of TeX's memory you used:
- 27381 strings out of 493109
- 484256 string characters out of 6138587
- 816723 words of memory out of 5000000
- 30414 multiletter control sequences out of 15000+600000
- 17001 words of font info for 52 fonts, out of 8000000 for 9000
- 1143 hyphenation exceptions out of 8191
- 40i,13n,40p,10468b,746s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/tex
-live/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2014/
-texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2014/texmf-dist/fonts/type1/
-public/cm-super/sfbx1095.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-
-super/sfbx1440.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm
-1000.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><
-c:/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on Mødeindkaldelse.pdf (6 pages, 85805 bytes).
+ 28398 strings out of 493698
+ 511807 string characters out of 3141969
+ 837738 words of memory out of 3000000
+ 31283 multiletter control sequences out of 15000+200000
+ 17001 words of font info for 52 fonts, out of 3000000 for 9000
+ 1027 hyphenation exceptions out of 8191
+ 48i,13n,40p,10494b,746s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{C:
+/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/urw/bookman/ubkd8a.pfb>
+Output written on MÃ¸deindkaldelse.pdf (6 pages, 100899 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 151 compressed objects within 2 object streams
+ 163 PDF objects out of 1000 (max. 8388607)
  64 named destinations out of 1000 (max. 500000)
  97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
