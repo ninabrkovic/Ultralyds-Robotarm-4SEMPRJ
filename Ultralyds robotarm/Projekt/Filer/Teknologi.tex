@@ -44,11 +44,11 @@ Systemet skal kunne overføre det tryk, som sonografen påvirker joysticket med,
 \section{Specifikationer}
 Robotarmeren har en rækkevide på 50 cm, hvilket angiver hvor langt den kan række ud, som var det en arm. Den vejer 11 kg, derfor skal stativet være bygget dertil. Robotarmen har 6-graders frihed, som betyder at den kan bevæge sig i x-, y- og z-aksens retning og med drejevirkning om hver akse, samtidigt kan den lave en +/- 360 graders rotation. \\
 (Skulder og base led kan dreje med en hastighed på 360grader/sekund,  andre led har en hastighed på 180grader/sekund.). \\
-Robotarmen kræver en 100-240 VAC, 50-60Hz strømforsyning, som betyder at den kom blive sat til en almindelig dansk stikkontakt. 
+Robotarmen kræver en 100-240 VAC, 50-60Hz strømforsyning, som betyder at den kan blive sat til en almindelig dansk stikkontakt. 
 \newline 
 Joysticket har bevægelighed som et håndled, derved har den også de begrænsninger som findes ved et håndled. Det har 6-graders frihed, så det passer med robotarmen. Se bilag UR3 Tekniske specifikationer. \\
 
-Der medfølger software til robotarmen, som både er koblingslinket mellem joystick og robotarm og styring deraf. Det er her bevægelserne fra joysticket omsættes til robotarmens bevægelser. Det er også her flere sikkerhedsmæssige foranstaltninger er placeret. Nogle indbygget i robotarmen, for eksempel stopper den øjeblikligt, hvis den bliver mødt med kraft på 50 N, det er blandt andet derfor den må benyttes på et hospital.    
+Der medfølger software til robotarmen, som både er koblingslinket mellem joystick og robotarm og styring deraf. Det er her bevægelserne fra joysticket omsættes til robotarmens bevægelser. Det er også her flere sikkerhedsmæssige foranstaltninger er placeret. Nogle er indbygget i robotarmen, for eksempel stopper den øjeblikligt, hvis den bliver mødt af en kraft på 50 N eller derover, det er blandt andet derfor den må benyttes på et hospital.    
 
 \section{Effektivitet}
 Ultralyds Robotarmen vil blive benyttet til 70-80\% af scannningerne på de gravide, da de sidste 20-30\% af scanningerne er for komplicerede til at robotten kan udføre dem. Derfor skal sonografen manuelt foretage de sidste 20-30\% af scanningerne på den nuværende metode. \\ 
@@ -58,9 +58,9 @@ Ultralyds Robotarmen har ikke indflydelse på billedekvalitet eller kvaliteten a
 Når sonografen vil trykke med ultralyds proben på den gravide borger, vil trykkraften bliver overført til joysticket og dummy-proben så sonografen får den korrekte tryk feedback. Derved vil sonografen have følelsen af, at der bliver trykket direkte på borgeren og kan dermed bedre selv have føling med situationen. 
 \section{Sikkerhed}
 I softwaren til styring fra joystick til robotarm findes en sikkerhedsindstilling, hvor en grænse for trykpåvirkningen skal indstilles. Hvis der af menneskelige eller teknologisk fejl bliver påvirket med en kraft over grænsen, vil robotarmen automatisk slå fra og stoppe. \\
-Som tidligere nævnt er der også en sikkerhed i at robotarmen stopper sine bevægelser hvis den bliver ramt af en kraft på over 5 N. Den foranstaltning gør at den ikke vil gøre skade på mennesker eller genstande ved at ramme dem. 
+Som tidligere nævnt er der også en sikkerhed i at robotarmen stopper sine bevægelser hvis den bliver ramt af en kraft på over 5 N. Denne foranstaltning gør at den ikke vil gøre skade på mennesker eller genstande ved at ramme dem. 
 
 \section{Delkonklusion}
 Ultralyds robotarmen kommer kun til at udføre 70-80\% af scanningerne, hvilket gør at sonograferne stadig skal udføre nogle af scanningerne manuelt. Men at robotarmen kan udføre størstedelen af scanningerne gør, at en stor del af belastningen på sonograferne fjernes. Derfor kan de mest komplicerede scanninger udføres manuelt, da sonograferne vil have mere styrke til disse.\\
 
-Der er tidliger blevet testet med robotarme i forbindelse med ultralydsscaninger, her dog på hjertet. Her viste det sig ikke at være et problem at styre selve armen.  Denne undersøgelse ligger nogle år tilbage i tiden og derfor at teknologien allerede ændret sig meget. Derfor menes det ikke at styringe, betjening og implementering af ultralyds robotarmen til scanninger af gravide ikke vil give de store problemer i sig selv. Der vil naturligvis altid være en overgangsperiode, hvor sonograferne skal vænne sig til at benytte joysticket. 
+Der er tidliger blevet testet med robotarme i forbindelse med ultralydsscaninger, her dog på hjertet. Her viste det sig ikke at være et problem at styre selve armen.  Denne undersøgelse ligger nogle år tilbage i tiden og derfor at teknologien allerede ændret sig meget. Derfor menes det ikke at styring, betjening og implementering af ultralyds robotarmen til scanninger af gravide vil give de store problemer i sig selv. Der vil naturligvis altid være en overgangsperiode, hvor sonograferne skal vænne sig til at benytte joysticket. 
