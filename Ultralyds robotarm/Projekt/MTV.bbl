@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Overvaegt}
 Danskernes sundhed.
@@ -12,6 +12,25 @@ Danmarks Statestik.
 Finn Børlum Kristensen~Helga Sigmund.
 \newblock {\em Metodehåndbog for medicinsk teknologivurdering}.
 \newblock Sundhedsstyrelsen, 2007.
+
+\bibitem{31}
+Carolyn~T Coffin.
+\newblock Work-related musculoskeletal disorders in sonographers: a review of
+  cause and types og injury and best practices for reducing injury risk.
+\newblock {\em Dovepress}, 2014.
+
+\bibitem{30}
+Beth L.~Veale Jeremy~Alaniz.
+\newblock Stretching for sonographers: A literature review of
+  sonographer-reported musculoskeletale injuries.
+\newblock {\em Journal of Diagnostic Medical Sonography}, 2013.
+
+\bibitem{35}
+Developed through a consensus conference hosted by Society~of Diagnostic
+  Medical~Sonography.
+\newblock Industry standarts for the preventation of work-related
+  musculoskeletal disorders in sonography.
+\newblock {\em Journal of Diagnostic Medical Sonography}, 2003.
 
 \bibitem{BeckyMorton2007}
 Becky Morton and Penny Delf.
@@ -28,5 +47,16 @@ Jean~Hedrick Lea.
 Jørgen Husted.
 \newblock {\em Etik og værdier i sygeplejen}.
 \newblock Hans Reitzels, 2013.
+
+\bibitem{Hjerterobot}
+Philippe Arbeille and Romain Provost.
+\newblock Teles-operated echocardiography using a robotic arm and an internet
+  connection.
+\newblock {\em Elsevier}, 2014.
+
+\bibitem{inflation}
+Trading Economics.
+\newblock Danmarks infllation-rate prognose.
+\newblock May 2016.
 
 \end{thebibliography}
