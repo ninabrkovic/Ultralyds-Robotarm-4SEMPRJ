@@ -17,37 +17,40 @@ A level-1 auxiliary file: Filer/Perspektivering.aux
 A level-1 auxiliary file: Filer/Referencer.aux
 A level-1 auxiliary file: Filer/Bilag.aux
 Database file #1: bibliografi/Ref.bib
+Warning--empty journal in diamantmodel
+Warning--empty journal in graviditet
+Warning--empty journal in kvinderovervaegt
 Warning--empty journal in inflation
-You've used 11 entries,
+You've used 14 entries,
             1791 wiz_defined-function locations,
-            509 strings with 5036 characters,
-and the built_in function-call counts, 1436 in all, are:
-= -- 118
-> -- 46
+            520 strings with 5242 characters,
+and the built_in function-call counts, 1826 in all, are:
+= -- 148
+> -- 58
 < -- 0
-+ -- 22
-- -- 11
-* -- 45
-:= -- 252
-add.period$ -- 31
-call.type$ -- 11
-change.case$ -- 7
++ -- 28
+- -- 14
+* -- 60
+:= -- 321
+add.period$ -- 40
+call.type$ -- 14
+change.case$ -- 10
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 88
-empty$ -- 163
-format.name$ -- 11
-if$ -- 318
+cite$ -- 18
+duplicate$ -- 112
+empty$ -- 205
+format.name$ -- 14
+if$ -- 399
 int.to.chr$ -- 0
-int.to.str$ -- 11
-missing$ -- 11
-newline$ -- 56
-num.names$ -- 9
-pop$ -- 43
+int.to.str$ -- 14
+missing$ -- 14
+newline$ -- 71
+num.names$ -- 12
+pop$ -- 58
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 30
+skip$ -- 39
 stack$ -- 0
 substring$ -- 0
 swap$ -- 10
@@ -55,8 +58,8 @@ text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 9
-width$ -- 13
-write$ -- 107
-(There was 1 warning)
+warning$ -- 4
+while$ -- 12
+width$ -- 16
+write$ -- 134
+(There were 4 warnings)
