@@ -20,8 +20,7 @@
 \contentsline {subsection}{\numberline {3.3.1}Opgaver}{5}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Teknologi}{5}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}Akt\IeC {\o }rer}{5}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Struktur}{6}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Kultur}{7}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.4}Struktur}{7}{subsection.3.3.4}
 \contentsline {section}{\numberline {3.4}Delkonklusion}{7}{section.3.4}
 \contentsline {chapter}{\chapternumberline {4}Patient}{8}{chapter.4}
 \contentsline {section}{\numberline {4.1}Sociale forhold}{8}{section.4.1}
