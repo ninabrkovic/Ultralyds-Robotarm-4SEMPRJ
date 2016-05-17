@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.2.19)  17 MAY 2016 11:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.2.19)  17 MAY 2016 11:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1923,11 +1923,31 @@ Package babel Info: Redefining danish shorthand "~
 
 
 
-]
+] (./MTV.toc
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 39.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 39.
+
+[4
+
+])
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 31.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 31.
+ [5]
 \openout2 = `Filer/Indledning.aux'.
 
-
-(./Filer/Indledning.tex
+ (./Filer/Indledning.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1956,7 +1976,6 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 32.
  [1
-
 
 
 
@@ -2015,7 +2034,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<Figurer/LeavittModel.png, id=227, 578.16pt x 225.0006pt>
+<Figurer/LeavittModel.png, id=286, 578.16pt x 225.0006pt>
 File: Figurer/LeavittModel.png Graphic file (type png)
 
 <use Figurer/LeavittModel.png>
@@ -2052,12 +2071,24 @@ Underfull \hbox (badness 1057) in paragraph at lines 27--28
 V, da afdelingerne
  []
 
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 30.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 30.
 
 Underfull \hbox (badness 1122) in paragraph at lines 31--32
 \T1/cmr/m/n/10.95 Opgaverne som afdelingerne varetager på nuværende tidspunkt, 
 vil ikke ændre sig ved
  []
 
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 33.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 33.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 37.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 37.
 
 Underfull \hbox (badness 1496) in paragraph at lines 38--41
 \T1/cmr/m/n/10.95 Muskel- eller skeletbesvær forårsaget eller forværret af de a
@@ -2072,18 +2103,22 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 41.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 41.
-[5] <Figurer/wrist.jpg, id=260, 834.11626pt x 624.08156pt>
+[5] <Figurer/wrist.jpg, id=316, 834.11626pt x 624.08156pt>
 File: Figurer/wrist.jpg Graphic file (type jpg)
 
 <use Figurer/wrist.jpg>
 Package pdftex.def Info: Figurer/wrist.jpg used on input line 47.
 (pdftex.def)             Requested size: 222.9525pt x 166.80922pt.
- <Figurer/arm.jpg, id=263, 807.015pt x 633.11531pt>
+ <Figurer/arm.jpg, id=319, 807.015pt x 633.11531pt>
 File: Figurer/arm.jpg Graphic file (type jpg)
 
 <use Figurer/arm.jpg>
 Package pdftex.def Info: Figurer/arm.jpg used on input line 54.
 (pdftex.def)             Requested size: 213.85056pt x 167.76509pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 62.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 62.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 67.
 Package babel Info: Redefining danish shorthand "~
@@ -2093,6 +2128,10 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 67.
  [6 <./Figurer/wrist.jpg> <./Figurer/arm.jpg>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 71.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 71.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 76.
 Package babel Info: Redefining danish shorthand "~
@@ -2116,7 +2155,12 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<Figurer/PatientaspekterMTV.png, id=281, 1194.4625pt x 538.01pt>
+Underfull \hbox (badness 1221) in paragraph at lines 2--4
+\T1/cmr/m/n/10.95 på patienten. Derfor er det vigtig at belyse, hvilken effekt 
+den nye teknologi har på
+ []
+
+<Figurer/PatientaspekterMTV.png, id=337, 1194.4625pt x 538.01pt>
 File: Figurer/PatientaspekterMTV.png Graphic file (type png)
 
 <use Figurer/PatientaspekterMTV.png>
@@ -2154,31 +2198,31 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 47.
 [9]
-Underfull \hbox (badness 1635) in paragraph at lines 55--58
+Underfull \hbox (badness 1635) in paragraph at lines 56--59
 \T1/cmr/m/n/10.95 En af Ultralyds Robotarmens hovedfunktioner er at mindske ant
 allet af sonografernes
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 65.
 )
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 36.
@@ -2197,7 +2241,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-<Figurer/udstyrHorsens.jpg, id=308, 489.32813pt x 630.85687pt>
+<Figurer/udstyrHorsens.jpg, id=363, 489.32813pt x 630.85687pt>
 File: Figurer/udstyrHorsens.jpg Graphic file (type jpg)
 
 <use Figurer/udstyrHorsens.jpg>
@@ -2234,7 +2278,7 @@ Package babel Info: Redefining danish shorthand "~
 
 
  <./Figurer/udstyrHorsens.jpg>]
-<Figurer/ergonomiskLosning.jpg, id=314, 898.85812pt x 430.60875pt>
+<Figurer/ergonomiskLosning.jpg, id=369, 898.85812pt x 430.60875pt>
 File: Figurer/ergonomiskLosning.jpg Graphic file (type jpg)
 
 <use Figurer/ergonomiskLosning.jpg>
@@ -2491,6 +2535,9 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 52.
+\tf@toc=\write5
+\openout5 = `MTV.toc'.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
 (./MTV.aux (./Filer/Forside.aux) (./Filer/Abstract.aux) (./Filer/Resume.aux)
@@ -2500,18 +2547,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
 (./Filer/Referencer.aux) (./Filer/Bilag.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
-Package rerunfilecheck Info: File `MTV.out' has not changed.
-(rerunfilecheck)             Checksum: AF91926D9E548F429095D420B0E29A89;2333.
+
+
+Package rerunfilecheck Warning: File `MTV.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `MTV.out':
+(rerunfilecheck)             Before: AF91926D9E548F429095D420B0E29A89;2333
+(rerunfilecheck)             After:  7FA317D4A19A3B290448ED268D641BBA;2643.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 27767 strings out of 493109
- 490463 string characters out of 6138587
- 817741 words of memory out of 5000000
+ 27772 strings out of 493109
+ 490496 string characters out of 6138587
+ 819741 words of memory out of 5000000
  30647 multiletter control sequences out of 15000+600000
  25814 words of font info for 64 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 41i,13n,80p,10456b,848s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,13n,80p,10456b,879s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texl
 ive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/texlive/2014/
 texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2014/texmf-dist/fonts/type1/
@@ -2531,10 +2585,10 @@ mf-dist/fonts/type1/public/cm-super/sfti1000.pfb><c:/texlive/2014/texmf-dist/fo
 nts/type1/public/cm-super/sfti1095.pfb><c:/texlive/2014/texmf-dist/fonts/type1/
 urw/bookman/ubkd8a.pfb><c:/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkl
 8a.pfb>
-Output written on MTV.pdf (29 pages, 994538 bytes).
+Output written on MTV.pdf (31 pages, 1001996 bytes).
 PDF statistics:
- 470 PDF objects out of 1000 (max. 8388607)
- 401 compressed objects within 5 object streams
- 100 named destinations out of 1000 (max. 500000)
+ 525 PDF objects out of 1000 (max. 8388607)
+ 454 compressed objects within 5 object streams
+ 102 named destinations out of 1000 (max. 500000)
  369 words of extra memory for PDF output out of 10000 (max. 10000000)
 

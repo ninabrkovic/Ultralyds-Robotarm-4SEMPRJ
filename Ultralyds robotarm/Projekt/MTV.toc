@@ -1,0 +1,48 @@
+\changetocdepth {2}
+\select@language {danish}
+\contentsline {chapter}{Abstract}{i}{chapter*.1}
+\contentsline {chapter}{Resum\IeC {\'e}}{ii}{chapter*.2}
+\contentsline {chapter}{Forkortelser og formler}{iii}{chapter*.3}
+\contentsline {section}{Forkortelser}{iii}{section*.4}
+\contentsline {section}{Formler}{iii}{section*.5}
+\contentsline {chapter}{\chapternumberline {1}Indledning}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Baggrund}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Projektafgr\IeC {\ae }nsning}{1}{section.1.2}
+\contentsline {chapter}{\chapternumberline {2}Metoder}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Teknologi}{2}{section.2.1}
+\contentsline {section}{\numberline {2.2}Patient}{2}{section.2.2}
+\contentsline {section}{\numberline {2.3}Organisation}{3}{section.2.3}
+\contentsline {section}{\numberline {2.4}\IeC {\O }konomi}{3}{section.2.4}
+\contentsline {chapter}{\chapternumberline {3}Organisation}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}HEH}{4}{section.3.1}
+\contentsline {section}{\numberline {3.2}RMV}{5}{section.3.2}
+\contentsline {section}{\numberline {3.3}Leavitts organisationsmodel}{5}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Opgaver}{5}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Teknologi}{5}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Akt\IeC {\o }rer}{5}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Struktur}{6}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Kultur}{7}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}Delkonklusion}{7}{section.3.4}
+\contentsline {chapter}{\chapternumberline {4}Patient}{8}{chapter.4}
+\contentsline {section}{\numberline {4.1}Sociale forhold}{8}{section.4.1}
+\contentsline {section}{\numberline {4.2}Kommunikative forhold}{9}{section.4.2}
+\contentsline {section}{\numberline {4.3}Individuelle forhold}{9}{section.4.3}
+\contentsline {section}{\numberline {4.4}Etiske forhold}{9}{section.4.4}
+\contentsline {section}{\numberline {4.5}\IeC {\O }konomiske forhold}{10}{section.4.5}
+\contentsline {section}{\numberline {4.6}Delkonklusion }{10}{section.4.6}
+\contentsline {chapter}{\chapternumberline {5}Teknologi}{11}{chapter.5}
+\contentsline {section}{\numberline {5.1}Anvendelsesomr\IeC {\r a}de}{12}{section.5.1}
+\contentsline {section}{\numberline {5.2}Specifikationer}{12}{section.5.2}
+\contentsline {section}{\numberline {5.3}Effektivitet}{13}{section.5.3}
+\contentsline {section}{\numberline {5.4}Sikkerhed}{13}{section.5.4}
+\contentsline {section}{\numberline {5.5}Delkonklusion}{13}{section.5.5}
+\contentsline {chapter}{\chapternumberline {6}\IeC {\O }konomi}{15}{chapter.6}
+\contentsline {section}{\numberline {6.1}Scenarie 1 - Den nuv\IeC {\ae }rende situation}{15}{section.6.1}
+\contentsline {section}{\numberline {6.2}Scenarie 2 - Den fremtidige situation}{17}{section.6.2}
+\contentsline {section}{\numberline {6.3}Perspektivering til RMV}{18}{section.6.3}
+\contentsline {section}{\numberline {6.4}Delkonklusion}{18}{section.6.4}
+\contentsline {chapter}{\chapternumberline {7}Konklusion}{20}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Perspektivering}{21}{chapter.8}
+\contentsline {chapter}{\chapternumberline {9}Referencer}{22}{chapter.9}
+\contentsline {chapter}{\chapternumberline {10}Bilag}{23}{chapter.10}
+\contentsline {chapter}{Litteratur}{24}{section*.12}
