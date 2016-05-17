@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.2.20)  17 MAY 2016 14:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.2.20)  17 MAY 2016 14:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2596,8 +2596,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
 (./Filer/Perspektivering.aux) (./Filer/Referencer.aux) (./Filer/Bilag.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
-Package rerunfilecheck Info: File `MTV.out' has not changed.
-(rerunfilecheck)             Checksum: 190068B5AE6B92D110EB6D76AD2D5E4B;2626.
+
+
+Package rerunfilecheck Warning: File `MTV.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `MTV.out':
+(rerunfilecheck)             Before: D27C63EC182CB0354A926CE155092988;2672
+(rerunfilecheck)             After:  190068B5AE6B92D110EB6D76AD2D5E4B;2626.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
