@@ -35,7 +35,7 @@
 \contentsline {section}{\numberline {5.2}Specifikationer}{12}{section.5.2}
 \contentsline {section}{\numberline {5.3}Effektivitet}{13}{section.5.3}
 \contentsline {section}{\numberline {5.4}Sikkerhed}{13}{section.5.4}
-\contentsline {section}{\numberline {5.5}Delkonklusion}{13}{section.5.5}
+\contentsline {section}{\numberline {5.5}Delkonklusion}{14}{section.5.5}
 \contentsline {chapter}{\chapternumberline {6}\IeC {\O }konomi}{15}{chapter.6}
 \contentsline {section}{\numberline {6.1}Scenarie 1 - Den nuv\IeC {\ae }rende situation}{15}{section.6.1}
 \contentsline {section}{\numberline {6.2}Scenarie 2 - Den fremtidige situation}{17}{section.6.2}
@@ -45,4 +45,4 @@
 \contentsline {chapter}{\chapternumberline {8}Perspektivering}{21}{chapter.8}
 \contentsline {chapter}{\chapternumberline {9}Referencer}{22}{chapter.9}
 \contentsline {chapter}{\chapternumberline {10}Bilag}{23}{chapter.10}
-\contentsline {chapter}{Litteratur}{24}{section*.12}
+\contentsline {chapter}{Litteratur}{24}{section*.13}
