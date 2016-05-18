@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.18)  17 MAY 2016 19:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.8)  18 MAY 2016 11:53
 entering extended mode
 **MTV.tex
 (MTV.tex
@@ -1017,21 +1017,21 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 Package: rsphrase 2011/06/03 v3.11 Risk and Safety Phrases (mhchem bundle)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mhchem\mhchem.sty"
-Package: mhchem 2016/02/07 v4.04 for typesetting chemical formulae
+Package: mhchem 2015/11/29 v4.03 for typesetting chemical formulae
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
-Package: expl3 2016/01/19 v6377 L3 programming layer (loader) 
+Package: expl3 2015/11/04 v6224 L3 programming layer (loader) 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
-Package: expl3 2016/01/19 v6377 L3 programming layer (code)
-L3 Module: l3bootstrap 2016/01/01 v6339 L3 Bootstrap code
-L3 Module: l3names 2015/12/21 v6328 L3 Namespace for primitives
-L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
+Package: expl3 2015/11/04 v6224 L3 programming layer (code) 
+L3 Module: l3bootstrap 2015/10/18 v6213 L3 Bootstrap code
+L3 Module: l3names 2015/11/03 v6220 L3 Namespace for primitives
+L3 Module: l3basics 2015/09/22 v6033 L3 Basic definitions
 L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
 L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
-L3 Module: l3str 2016/01/03 v6357 L3 Strings
+L3 Module: l3str 2015/09/20 v6021 L3 Strings
 L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
-L3 Module: l3int 2016/01/05 v6366 L3 Integers
+L3 Module: l3int 2015/09/25 v6089 L3 Integers
 \c_max_int=\count166
 \l_tmpa_int=\count167
 \l_tmpb_int=\count168
@@ -1041,16 +1041,16 @@ L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
 L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
 \g__prg_map_int=\count171
 L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
-L3 Module: l3token 2015/11/11 v6249 L3 Experimental token manipulation
-L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
+L3 Module: l3token 2015/09/28 v6114 L3 Experimental token manipulation
+L3 Module: l3prop 2015/08/05 v5777 L3 Property lists
 L3 Module: l3msg 2015/09/28 v6113 L3 Messages
-L3 Module: l3file 2015/12/03 v6317 L3 File and I/O operations
+L3 Module: l3file 2015/09/23 v6037 L3 File and I/O operations
 \l_iow_line_count_int=\count172
 \l__iow_target_count_int=\count173
 \l__iow_current_line_int=\count174
 \l__iow_current_word_int=\count175
 \l__iow_current_indentation_int=\count176
-L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
+L3 Module: l3skip 2015/09/25 v6089 L3 Dimensions and skips
 \c_zero_dim=\dimen178
 \c_max_dim=\dimen179
 \l_tmpa_dim=\dimen180
@@ -1069,7 +1069,7 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
-L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
+L3 Module: l3keys 2015/09/23 v6037 L3 Key-value interfaces
 \g__keyval_level_int=\count177
 \l_keys_choice_int=\count178
 L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
@@ -1109,8 +1109,7 @@ L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
 \l__coffin_display_x_dim=\dimen192
 \l__coffin_display_y_dim=\dimen193
 L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
-L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
-L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
+L3 Module: l3candidates 2015/11/01 v6216 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen194
 \l__box_bottom_dim=\dimen195
 \l__box_left_dim=\dimen196
@@ -1127,34 +1126,38 @@ L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
 \l__coffin_top_corner_dim=\dimen206
 \l__coffin_scaled_total_height_dim=\dimen207
 \l__coffin_scaled_width_dim=\dimen208
-L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3luatex 2015/09/10 v5983 L3 Experimental LuaTeX-specific functions
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3unicode-data.def"
+File: l3unicode-data.def 2015/07/20 v5676 L3 Unicode data
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
-File: l3pdfmode.def 2015/11/11 v6250 L3 Experimental driver: PDF mode
+File: l3pdfmode.def 2015/09/10 v5983 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count188
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
-Package: l3keys2e 2016/01/19 v6377 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2015/11/04 v6224 LaTeX2e option processing using LaTeX3 keys
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3regex.st
 y"
-Package: l3regex 2016/01/19 v6377 L3 Experimental regular expressions
+Package: l3regex 2015/11/04 v6224 L3 Experimental regular expressions
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3tl-build.s
 ty"
-Package: l3tl-build 2016/01/19 v6377 L3 Experimental token list construction
+Package: l3tl-build 2015/11/04 v6224 L3 Experimental token list construction
 \l__tl_build_start_index_int=\count189
 \l__tl_build_index_int=\count190
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3tl-analysi
 s.sty"
-Package: l3tl-analysis 2015/11/09 v6244 L3 Experimental token lists analysis
+Package: l3tl-analysis 2015/09/26 v6106 L3 Experimental token lists analysis
 \l__tl_analysis_normal_int=\count191
 \l__tl_analysis_index_int=\count192
 \l__tl_analysis_nesting_int=\count193
 \l__tl_analysis_type_int=\count194
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3flag.sty"
-Package: l3flag 2016/01/19 v6377 L3 Experimental flags
+Package: l3flag 2015/11/04 v6224 L3 Experimental flags
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3str-conver
 t.sty"
@@ -1202,86 +1205,86 @@ ions
 \l__regex_zeroth_submatch_int=\count270
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\chemgreek\chemgreek.sty" ("C:\P
 rogram Files (x86)\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
-Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
+Package: xparse 2015/11/04 v6224 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count271
 \l__xparse_m_args_int=\count272
 \l__xparse_mandatory_args_int=\count273
 \l__xparse_processor_int=\count274
 \l__xparse_v_nesting_int=\count275
 )
-Package: chemgreek 2016/01/07 v1.0d interfaceforuprightgreeklettersforuseinchem
+Package: chemgreek 2015/11/10 v1.0b interfaceforuprightgreeklettersforuseinchem
 istry (CN)
 \l__chemgreek_tmpa_int=\count276
 \g__chemgreek_tmpa_int=\count277
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newchemgreekmapping with sig. 'O{}mm' on line 336.
+. Defining command \newchemgreekmapping with sig. 'O{}mm' on line 330.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \renewchemgreekmapping with sig. 'O{}mm' on line 339.
+. Defining command \renewchemgreekmapping with sig. 'O{}mm' on line 333.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \declarechemgreekmapping with sig. 'O{}mm' on line 342.
+. Defining command \declarechemgreekmapping with sig. 'O{}mm' on line 336.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newchemgreekmappingalias with sig. 'mm' on line 347.
+. Defining command \newchemgreekmappingalias with sig. 'mm' on line 341.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \renewchemgreekmappingalias with sig. 'mm' on line 350.
+. Defining command \renewchemgreekmappingalias with sig. 'mm' on line 344.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \declarechemgreekmappingalias with sig. 'mm' on line 353.
+. Defining command \declarechemgreekmappingalias with sig. 'mm' on line 347.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \changechemgreeksymbol with sig. 'mmmm' on line 383.
+. Defining command \changechemgreeksymbol with sig. 'mmmm' on line 377.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \chemgreekmappingsymbol with sig. 'mm' on line 477.
+. Defining command \chemgreekmappingsymbol with sig. 'mm' on line 471.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \activatechemgreekmapping with sig. 'sm' on line 486.
+. Defining command \activatechemgreekmapping with sig. 'sm' on line 480.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \selectchemgreekmapping with sig. 'm' on line 491.
+. Defining command \selectchemgreekmapping with sig. 'm' on line 485.
 .................................................
 )
 \l__mhchem_ce_distanceFromLastComma_int=\count278
 \__mhchem_arrow_extPgfLength_skip=\skip216
-\mhchem@minispace@tmp=\skip217
-\mhchem@minibackspace@tmp=\skip218
-\mhchem@bondwidth=\skip219
-\mhchem@bondheight=\skip220
-\mhchem@smallbondwidth@tmpA=\skip221
-\mhchem@smallbondwidth@tmpB=\skip222
-\mhchem@smallbondwidth=\skip223
-\mhchem@bondtmp@minussidebearingleft=\skip224
-\mhchem@bondtmp@minussidebearingright=\skip225
+\mhchem@bondwidth=\skip217
+\mhchem@bondheight=\skip218
+\mhchem@smallbondwidth@tmpA=\skip219
+\mhchem@smallbondwidth@tmpB=\skip220
+\mhchem@smallbondwidth=\skip221
+\mhchem@bondtmp@minussidebearingleft=\skip222
+\mhchem@bondtmp@minussidebearingright=\skip223
+\mhchem@minispace@tmp=\skip224
+\mhchem@minibackspace@tmp=\skip225
 \l__mhchem_option_version_int=\count279
 \mhchem@option@minusmathsidebearingleft=\dimen209
 \mhchem@option@minusmathsidebearingright=\dimen210
 \mhchem@option@minustextsidebearingleft=\dimen211
 \mhchem@option@minustextsidebearingright=\dimen212
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
-Package: siunitx 2016/01/19 v2.6p A comprehensive (SI) units package
+Package: siunitx 2015/10/15 v2.6m A comprehensive (SI) units package
 \l__siunitx_tmp_box=\box75
 \l__siunitx_tmp_dim=\dimen213
 \l__siunitx_tmp_int=\count280
@@ -1325,119 +1328,119 @@ Package: siunitx 2016/01/19 v2.6p A comprehensive (SI) units package
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7218.
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7209.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPostPower with sig. 'mm' on line 7221.
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7212.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7224.
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7215.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPrePower with sig. 'mm' on line 7227.
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7218.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIQualifier with sig. 'mm' on line 7230.
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7221.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7233.
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7224.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7236.
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7227.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7251.
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7242.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \num with sig. 'om' on line 7259.
+. Defining command \num with sig. 'om' on line 7250.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7267.
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7258.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numrange with sig. 'omm' on line 7275.
+. Defining command \numrange with sig. 'omm' on line 7266.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7286.
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7277.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIrange with sig. 'ommm' on line 7297.
+. Defining command \SIrange with sig. 'ommm' on line 7288.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SI with sig. 'omom' on line 7308.
+. Defining command \SI with sig. 'omom' on line 7299.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \sisetup with sig. 'm' on line 7311.
+. Defining command \sisetup with sig. 'm' on line 7302.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \tablenum with sig. 'om' on line 7323.
+. Defining command \tablenum with sig. 'om' on line 7314.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \si with sig. 'om' on line 7334.
+. Defining command \si with sig. 'om' on line 7325.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7381.
+. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7372.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \__siunitx_bookmark_numrange:w with sig. 'omm' on line
-. 7383.
+. 7374.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7385.
+. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7376.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7387.
+. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7378.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \__siunitx_bookmark_SIrange:w with sig. 'ommm' on line
-. 7389.
+. 7380.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7390.
+. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7381.
 .................................................
 \g__file_internal_ior=\read2
 
@@ -1548,10 +1551,10 @@ To prepare we will now reset all captioning macros and configurations to kernel
 he caption package interfaces in order to configure your captions. .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
-Package: caption 2016/02/02 v3.3-136 Customizing captions (AR)
+Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
-Package: caption3 2016/02/02 v1.7-136 caption3 kernel (AR)
+Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen259
 \captionmargin@=\dimen260
@@ -1868,7 +1871,7 @@ Dictionary: translator-basic-dictionary, Language: English
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
 "
-File: siunitx-abbreviations.cfg 2016/01/19 v2.6p siunitx: Abbreviated units
+File: siunitx-abbreviations.cfg 2015/10/15 v2.6m siunitx: Abbreviated units
 )
 \c@lstlisting=\count342
 \AtBeginShipoutBox=\box97
@@ -1949,7 +1952,7 @@ Package babel Info: Redefining danish shorthand "~
 
 
 
-{C:/Users/Mette/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figurer/A
+{C:/Users/Freja/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figurer/A
 U.jpg> <./Figurer/StativMedUR3Render.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 41--45
 
@@ -2465,18 +2468,6 @@ File: Figurer/ModelOkonomi.jpg Graphic file (type jpg)
 <use Figurer/ModelOkonomi.jpg>
 Package pdftex.def Info: Figurer/ModelOkonomi.jpg used on input line 8.
 (pdftex.def)             Requested size: 318.49861pt x 174.11043pt.
-
-Underfull \hbox (badness 1629) in paragraph at lines 13--14
-[]\T1/cmr/m/n/10.95 Belægget for dette afsnit er skabt pga. interview med Kvin
-deafdelingen, Svangre- og
- []
-
-
-Underfull \hbox (badness 1377) in paragraph at lines 13--14
-\T1/cmr/m/n/10.95 Ultralydsambulatorium på Hospitalsenheden Horsens (HEH), se 
-Bilag 4. Her er deres
- []
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining danish shorthand "~
@@ -2485,7 +2476,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 17.
-[15
+ [15
 
 
 
@@ -2522,14 +2513,6 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 61.
  [17]
-
-Package natbib Warning: Citation `Lontabel' on page 18 undefined on input line 
-79.
-
-
-Package natbib Warning: Citation `Arbejdstid' on page 18 undefined on input lin
-e 79.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 82.
 Package babel Info: Redefining danish shorthand "~
@@ -2538,7 +2521,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 82.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 82.
-[18]
+ [18]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 89.
 Package babel Info: Redefining danish shorthand "~
@@ -2661,9 +2644,6 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 52.
-
-Package natbib Warning: There were undefined citations.
-
 \tf@toc=\write5
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
@@ -2679,27 +2659,27 @@ Package rerunfilecheck Info: File `MTV.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 30265 strings out of 493673
- 542293 string characters out of 3141530
- 880168 words of memory out of 3000000
- 32993 multiletter control sequences out of 15000+200000
+ 30198 strings out of 493673
+ 541908 string characters out of 3141531
+ 880227 words of memory out of 3000000
+ 32926 multiletter control sequences out of 15000+200000
  25814 words of font info for 64 fonts, out of 3000000 for 9000
  1027 hyphenation exceptions out of 8191
- 45i,13n,82p,10481b,911s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Mette\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecti1095.pk> <C:\Users\Mette\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\tcrm1095.pk> <C:\Users\Mette\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Mette\AppData\Local\MiKTeX\2.9\fonts
+ 45i,13n,80p,10481b,911s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Freja\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecti1095.pk> <C:\Users\Freja\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\tcrm1095.pk> <C:\Users\Freja\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Freja\AppData\Local\MiKTeX\2.9\fonts
 \pk\ljfour\jknappen\ec\dpi600\ecti1000.pk>{C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/enc/dvips/fontname/8r.enc} <C:\Users\Mette\AppData\Local\MiKTeX\2.9\fonts\p
-k\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Mette\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Mette\AppData\Loca
-l\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Mette\Ap
+nts/enc/dvips/fontname/8r.enc} <C:\Users\Freja\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Freja\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Freja\AppData\Loca
+l\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Freja\Ap
 pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\User
-s\Mette\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk
-> <C:\Users\Mette\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
-crm1728.pk> <C:\Users\Mette\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
-c\dpi600\ecrm2488.pk> <C:\Users\Mette\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
+s\Freja\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk
+> <C:\Users\Freja\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
+crm1728.pk> <C:\Users\Freja\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
+c\dpi600\ecrm2488.pk> <C:\Users\Freja\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
 jknappen\ec\dpi600\eccc1440.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
@@ -2708,9 +2688,9 @@ msfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ub
 kd8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8a.pfb>
 
-Output written on MTV.pdf (32 pages, 1152190 bytes).
+Output written on MTV.pdf (32 pages, 1153301 bytes).
 PDF statistics:
- 920 PDF objects out of 1000 (max. 8388607)
- 108 named destinations out of 1000 (max. 500000)
+ 927 PDF objects out of 1000 (max. 8388607)
+ 109 named destinations out of 1000 (max. 500000)
  419 words of extra memory for PDF output out of 10000 (max. 10000000)
 
