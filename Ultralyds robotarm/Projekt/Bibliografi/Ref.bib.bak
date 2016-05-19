@@ -119,9 +119,6 @@
   url =          {http://proxy.danskernessundhed.dk/SASVisualAnalyticsViewer/VisualAnalyticsViewer_guest.jsp?reportName=Overvaegt&reportPath=%2FDanskernes_sundhed%2F}
 }
 
-@Article{,
-}
-
 @Manual{Arbejdstid,
   title = {Arbejdstidens længde},
   month = {may},
@@ -134,6 +131,20 @@
   month = {may},
   year  = {2016},
   url   = {http://www.pla.dk/flx/overenskomster/overenskomst_for_laegesekretaerer_i_almen_praksis/aktuel_loen/},
+}
+
+@Manual{Arbejdsmiljo,
+  title = {Arbejdsmiljø, sygefravær og trivsel},
+  month = {may},
+  year  = {2016},
+  url   = {http://www.regioner.dk/arbejdsgiver/arbejdsmilj-oe-+sygefrav%C3%A6r+og+trivsel},
+}
+
+@Manual{RegionAnsvar,
+  title = {Regionernes opgaver},
+  month = {may},
+  year  = {2016},
+  url   = {http://www.regioner.dk/om+regionerne/regionernes+opgaver},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
