@@ -43,7 +43,7 @@
 \contentsline {section}{\numberline {6.3}Perspektivering til RMV}{20}{section.6.3}
 \contentsline {section}{\numberline {6.4}Delkonklusion}{20}{section.6.4}
 \contentsline {chapter}{\chapternumberline {7}Konklusion}{21}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Perspektivering}{22}{chapter.8}
-\contentsline {chapter}{\chapternumberline {9}Referencer}{23}{chapter.9}
-\contentsline {chapter}{\chapternumberline {10}Bilag}{24}{chapter.10}
-\contentsline {chapter}{Litteratur}{25}{section*.15}
+\contentsline {chapter}{\chapternumberline {8}Diskussion og perspektivering}{22}{chapter.8}
+\contentsline {chapter}{\chapternumberline {9}Referencer}{24}{chapter.9}
+\contentsline {chapter}{\chapternumberline {10}Bilag}{25}{chapter.10}
+\contentsline {chapter}{Litteratur}{26}{section*.15}
