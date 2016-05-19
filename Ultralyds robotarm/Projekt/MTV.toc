@@ -35,15 +35,14 @@
 \contentsline {section}{\numberline {5.2}Kommunikative forhold}{14}{section.5.2}
 \contentsline {section}{\numberline {5.3}Individuelle forhold}{14}{section.5.3}
 \contentsline {section}{\numberline {5.4}Etiske forhold}{14}{section.5.4}
-\contentsline {section}{\numberline {5.5}\IeC {\O }konomiske forhold}{15}{section.5.5}
-\contentsline {section}{\numberline {5.6}Delkonklusion }{15}{section.5.6}
-\contentsline {chapter}{\chapternumberline {6}\IeC {\O }konomi}{16}{chapter.6}
-\contentsline {section}{\numberline {6.1}Scenarie 1 - Den nuv\IeC {\ae }rende situation}{17}{section.6.1}
-\contentsline {section}{\numberline {6.2}Scenarie 2 - Den fremtidige situation}{18}{section.6.2}
-\contentsline {section}{\numberline {6.3}Perspektivering til RMV}{20}{section.6.3}
-\contentsline {section}{\numberline {6.4}Delkonklusion}{20}{section.6.4}
-\contentsline {chapter}{\chapternumberline {7}Konklusion}{21}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Diskussion og perspektivering}{22}{chapter.8}
-\contentsline {chapter}{\chapternumberline {9}Referencer}{24}{chapter.9}
-\contentsline {chapter}{\chapternumberline {10}Bilag}{25}{chapter.10}
-\contentsline {chapter}{Litteratur}{26}{section*.15}
+\contentsline {section}{\numberline {5.5}\IeC {\O }konomiske forhold}{16}{section.5.5}
+\contentsline {section}{\numberline {5.6}Delkonklusion }{16}{section.5.6}
+\contentsline {chapter}{\chapternumberline {6}\IeC {\O }konomi}{17}{chapter.6}
+\contentsline {section}{\numberline {6.1}Scenarie 1 - Den nuv\IeC {\ae }rende situation}{18}{section.6.1}
+\contentsline {section}{\numberline {6.2}Scenarie 2 - Den fremtidige situation}{19}{section.6.2}
+\contentsline {section}{\numberline {6.3}Perspektivering til RMV}{21}{section.6.3}
+\contentsline {section}{\numberline {6.4}Delkonklusion}{21}{section.6.4}
+\contentsline {chapter}{\chapternumberline {7}Konklusion}{22}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Diskussion og perspektivering}{23}{chapter.8}
+\contentsline {chapter}{\chapternumberline {9}Bilag}{25}{chapter.9}
+\contentsline {chapter}{Litteratur}{26}{section*.16}

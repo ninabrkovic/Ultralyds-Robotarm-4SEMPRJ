@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: MTV.aux
+This is BibTeX, Version 0.99d (TeX Live 2014/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: MTV.aux
 The style file: unsrt.bst
 A level-1 auxiliary file: Filer/Forside.aux
 A level-1 auxiliary file: Filer/Abstract.aux
@@ -7,16 +9,59 @@ A level-1 auxiliary file: Filer/Forord.aux
 A level-1 auxiliary file: Filer/Forkortelser.aux
 A level-1 auxiliary file: Filer/Indledning.aux
 A level-1 auxiliary file: Filer/Metoder.aux
+A level-1 auxiliary file: Filer/Teknologi.aux
 A level-1 auxiliary file: Filer/Organisation.aux
 A level-1 auxiliary file: Filer/Patient_etik.aux
-A level-1 auxiliary file: Filer/Teknologi.aux
 A level-1 auxiliary file: Filer/OEkonomi.aux
 A level-1 auxiliary file: Filer/Konklusion.aux
 A level-1 auxiliary file: Filer/Perspektivering.aux
-A level-1 auxiliary file: Filer/Referencer.aux
 A level-1 auxiliary file: Filer/Bilag.aux
 Database file #1: bibliografi/Ref.bib
+Name 2 in "Joan P. Baker and Carolyn T. Coffin," has a comma at the end for entry 24
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in 36
 Warning--empty journal in diamantmodel
 Warning--empty journal in graviditet
 Warning--empty journal in kvinderovervaegt
-(There were 3 warnings)
+You've used 22 entries,
+            1791 wiz_defined-function locations,
+            550 strings with 6156 characters,
+and the built_in function-call counts, 2939 in all, are:
+= -- 229
+> -- 122
+< -- 0
++ -- 53
+- -- 31
+* -- 115
+:= -- 507
+add.period$ -- 59
+call.type$ -- 22
+change.case$ -- 14
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 173
+empty$ -- 323
+format.name$ -- 31
+if$ -- 645
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 20
+newline$ -- 106
+num.names$ -- 18
+pop$ -- 87
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 66
+stack$ -- 0
+substring$ -- 0
+swap$ -- 19
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 18
+width$ -- 24
+write$ -- 204
+(There was 1 error message)
