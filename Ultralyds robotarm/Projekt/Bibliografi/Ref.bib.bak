@@ -198,4 +198,11 @@
   url       = {http://www.hansreitzel.dk/Socialt-arbejde/Etik-og-v%C3%A6rdier-i-socialt-arbejde/9788741253329},
 }
 
+@Manual{livmoder,
+  title  = {Livmoder},
+  author = {Graviditet.dk},
+  year   = {2016},
+  url    = {http://www.graviditet.dk/livmoder},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
