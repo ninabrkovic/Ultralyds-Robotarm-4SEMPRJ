@@ -1,7 +1,7 @@
 \changetocdepth {2}
 \select@language {danish}
-\contentsline {chapter}{Abstract}{i}{chapter*.1}
-\contentsline {chapter}{Resum\IeC {\'e}}{ii}{chapter*.2}
+\contentsline {chapter}{Resum\IeC {\'e}}{i}{chapter*.1}
+\contentsline {chapter}{Abstract}{ii}{chapter*.2}
 \contentsline {chapter}{Forord}{iii}{chapter*.3}
 \contentsline {chapter}{Forkortelser og formler}{iv}{chapter*.4}
 \contentsline {section}{Forkortelser}{iv}{section*.5}
@@ -30,19 +30,20 @@
 \contentsline {subsection}{\numberline {4.3.3}Akt\IeC {\o }rer}{10}{subsection.4.3.3}
 \contentsline {subsection}{\numberline {4.3.4}Struktur}{12}{subsection.4.3.4}
 \contentsline {section}{\numberline {4.4}Delkonklusion}{12}{section.4.4}
-\contentsline {chapter}{\chapternumberline {5}Patient}{13}{chapter.5}
-\contentsline {section}{\numberline {5.1}Sociale forhold}{13}{section.5.1}
-\contentsline {section}{\numberline {5.2}Kommunikative forhold}{14}{section.5.2}
-\contentsline {section}{\numberline {5.3}Individuelle forhold}{14}{section.5.3}
-\contentsline {section}{\numberline {5.4}Etiske forhold}{14}{section.5.4}
-\contentsline {section}{\numberline {5.5}\IeC {\O }konomiske forhold}{16}{section.5.5}
-\contentsline {section}{\numberline {5.6}Delkonklusion}{16}{section.5.6}
-\contentsline {chapter}{\chapternumberline {6}\IeC {\O }konomi}{17}{chapter.6}
-\contentsline {section}{\numberline {6.1}Scenarie 1 - Den nuv\IeC {\ae }rende situation}{18}{section.6.1}
-\contentsline {section}{\numberline {6.2}Scenarie 2 - Den fremtidige situation}{19}{section.6.2}
-\contentsline {section}{\numberline {6.3}Perspektivering til RMV}{21}{section.6.3}
-\contentsline {section}{\numberline {6.4}Delkonklusion}{21}{section.6.4}
-\contentsline {chapter}{\chapternumberline {7}Konklusion}{22}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Diskussion og perspektivering}{23}{chapter.8}
-\contentsline {chapter}{\chapternumberline {9}Bilag}{25}{chapter.9}
-\contentsline {chapter}{Litteratur}{26}{section*.16}
+\contentsline {chapter}{\chapternumberline {5}Patient}{14}{chapter.5}
+\contentsline {section}{\numberline {5.1}Sociale forhold}{14}{section.5.1}
+\contentsline {section}{\numberline {5.2}Kommunikative forhold}{15}{section.5.2}
+\contentsline {section}{\numberline {5.3}Individuelle forhold}{15}{section.5.3}
+\contentsline {section}{\numberline {5.4}Etiske forhold}{15}{section.5.4}
+\contentsline {section}{\numberline {5.5}\IeC {\O }konomiske forhold}{17}{section.5.5}
+\contentsline {section}{\numberline {5.6}Delkonklusion}{17}{section.5.6}
+\contentsline {chapter}{\chapternumberline {6}\IeC {\O }konomi}{18}{chapter.6}
+\contentsline {section}{\numberline {6.1}Scenarie 1 - Den nuv\IeC {\ae }rende situation}{19}{section.6.1}
+\contentsline {section}{\numberline {6.2}Scenarie 2 - Den fremtidige situation}{20}{section.6.2}
+\contentsline {section}{\numberline {6.3}Perspektivering til RMV}{22}{section.6.3}
+\contentsline {section}{\numberline {6.4}Delkonklusion}{22}{section.6.4}
+\contentsline {chapter}{\chapternumberline {7}Diskussion}{23}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Konklusion}{24}{chapter.8}
+\contentsline {chapter}{\chapternumberline {9}Perspektivering}{25}{chapter.9}
+\contentsline {chapter}{\chapternumberline {10}Bilag}{26}{chapter.10}
+\contentsline {chapter}{Litteratur}{27}{section*.16}
