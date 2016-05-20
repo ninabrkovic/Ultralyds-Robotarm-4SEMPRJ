@@ -1,11 +1,153 @@
 % Encoding: UTF-8
 
-@Manual{Foedsler,
-  title =        {Danmarks Statestik},
-  organization = {Danmarks Statestik},
-  month =        apr,
+@Article{1,
+  author  = {Lois M. Wihlidal and Shrawan Kumar},
+  title   = {An injury profile of practicing diagnostic medical sonographers in Alberta},
+  journal = {International Journal of Industrial Ergonomics},
+  year    = {1997},
+  month   = {Marts},
+}
+
+@Article{18,
+  author =  {P. Arbeille and J. Ruiz and P. Herve and M. Chevillot and G. Poisson and F. Perrotin},
+  title =   {Fetal tele-echography using a robotic arm and a satellite link},
+  journal = {Wiley InterScience},
+  year =    {2005}
+}
+
+@Article{24,
+  author =  {Joan P. Baker and Carolyn T. Coffin;},
+  title =   {The Importance of an Ergonomic Workstation to Practicing Sonographers},
+  journal = {J Ultrasound Med},
+  year =    {2013}
+}
+
+@Article{29,
+  author  = {Jean Hedrick Lea},
+  title   = {Psychosocial Progression Through Normal Pregnancy: A Model for Sonographer-Patient Interaction},
+  journal = {Journal of Diagnostic Medical Sonography},
+  year    = {1985},
+}
+
+@Article{30,
+  author =  {Jeremy Alaniz and Beth L. Veale},
+  title =   {Stretching for Sonographers: A Literature Review of Sonographer-Reported Musculoskeletale injuries},
+  journal = {Journal of Diagnostic Medical Sonography},
+  year =    {2013}
+}
+
+@Article{31,
+  author =  {Carolyn T. Coffin;},
+  title =   {Work-related Musculoskeletal disorders in sonographers: a review of cause and types og injury and best practices for reducing injury risk},
+  journal = {Dovepress},
+  year =    {2014}
+}
+
+@Article{32,
+  author  = {Becky Morton and Penny Delf},
+  title   = {The prevalence and causes of MSI amongst sonographers},
+  journal = {Elsevier Ltd},
+  year    = {2007},
+}
+
+@Article{35,
+  author =  {Society of Diagnostic Medical Sonography},
+  title =   {Industry Standarts for the Preventation of Work-Related Musculoskeletal Disorders in Sonography},
+  journal = {Journal of Diagnostic Medical Sonography},
+  year =    {2003}
+}
+
+@Article{36,
+  author =  {Shawn C. Roll and Lauren Selhorst and Kevin D. Evans},
+  title =   {Contribution of positioning to work-related musculoskeletal discomfort in diagnostic medical sonographers},
+  journal = {IOS Press},
+  year =    {2012}
+}
+
+@Article{5,
+  author  = {Kurt Boman and Mona Olofsson and Peter Berggren and Partho P. Sengupta and Jagat Narula},
+  title   = {Robot-assisted remote echocardiographic examination and teleconsultation: a randomized comparison of time to diagnosis with standard of care referral approach},
+  journal = {Elsevier Inc.},
+  year    = {2014},
+  month   = {August},
+}
+
+@Electronic{6gradersfrihed,
+  author = {LifeHealthCare},
+  month =  {Maj},
+  year =   {2016},
+  title =  {M6 Artificial Cervical Disc},
+  url =    {http://lifehealthcare.com.au/m6/}
+}
+
+@Article{8,
+  author =  {Francois Conti and Jaeheung Park and Oussama Khatib},
+  title =   {Interface Design and Control Strategies for a Robot Assisted Ultrasonic Examination System},
+  journal = {Artificial Intelligence Laboratory, Stanford University},
+  year =    {2014}
+}
+
+@Electronic{Arbejdsmiljo,
+  author = {Danske Regioner},
+  month =  {Maj},
+  year =   {2016},
+  title =  {Arbejdsmiljø, sygefravær og trivsel},
+  url =    {http://www.regioner.dk/arbejdsgiver/arbejdsmilj-oe-+sygefrav%C3%A6r+og+trivsel}
+}
+
+@Electronic{Arbejdstid,
+  author = {Moderniseringsstyrelsen},
+  month =  {Maj},
+  year =   {2016},
+  title =  {Arbejdstidens længde},
+  url =    {http://pav.perst.dk/Publikation/Arbejdstidsregler%20mv/Tjenestemaend/Arbejdstidens%20laengde.aspx}
+}
+
+@Electronic{diamantmodel,
+  author = {EMU, Danmarks læringsportal},
+  month =  {Maj},
+  year =   {2016},
+  title =  {Leavitt's diamantmodel},
+  url =    {http://www.emu.dk/modul/leavitt%E2%80%99s-diamantmodel}
+}
+
+@Book{Etiskehjul,
+  title     = {Etik og værdier i socialt arbejde},
+  publisher = {Hans Reitzels Forlag},
+  year      = {2009},
+  author    = {Jørgen Husted},
+  url       = {http://www.hansreitzel.dk/Socialt-arbejde/Etik-og-v%C3%A6rdier-i-socialt-arbejde/9788741253329},
+}
+
+@Electronic{Foedsler,
+  month =        {April},
   year =         {2016},
+  title =        {Statestik over fødsler DK},
+  organization = {Danmarks Statestik},
   url =          {https://www.dst.dk/da/Statistik/emner/foedsler/foedsler?tab=nog}
+}
+
+@Electronic{graviditet,
+  author = {Thomas Bergholt},
+  month =  {September},
+  year =   {2014},
+  title =  {Ultralydsskanning i graviditeten},
+  url =    {https://www.sundhed.dk/borger/sygdomme-a-aa/graviditet/undersoegelser/ultralydskanning-i-graviditeten/}
+}
+
+@Electronic{greenland,
+  author =       {Nordisk Råd and Nordisk Ministerråd},
+  year =         {2016},
+  title =        {Sunhedsvæsnet i Grønland},
+  organization = {Norden},
+  url =          {http://www.norden.org/da/hallo-norden/groenland/bo-og-opholde-sig-i-groenland/sundhedsvaesnet-i-groenland}
+}
+
+@Article{Hjerterobot,
+  author =  {Philippe Arbeille and Romain Provost},
+  title =   {TELES-OPERATED ECHOCARDIOGRAPHY USING A ROBOTIC ARM AND AN INTERNET CONNECTION},
+  journal = {Elsevier},
+  year =    {2014}
 }
 
 @Book{HP,
@@ -22,47 +164,58 @@
   author =    {Jørgen Husted}
 }
 
-@Manual{overvaegt,
-  title =        {Overvaegt},
-  organization = {Danskernes sundhed},
-  month =        apr,
+@Electronic{inflation,
+  author = {Trading Economics},
+  month =  {Maj},
+  year =   {2016},
+  title =  {Danmarks infllation-Rate prognose},
+  url =    {http://da.tradingeconomics.com/denmark/inflation-cpi/forecast}
+}
+
+@Electronic{kvinderovervaegt,
+  author = {Miriam Meister},
+  month =  {Oktober},
+  year =   {2015},
+  title =  {Danske kvinders vægt går fortsat opad},
+  url =    {http://www.food.dtu.dk/Nyheder/2015/10/Danske-kvinders-vaegt-gaar-fortsat-opad?id=f6c2e6a3-1b11-4d9f-9c11-342da2142486&utm_source=newsletter&utm_media=mail&utm_campaign=}
+}
+
+@Book{Leavitt,
+  title =     {Metodehåndbog for medicinsk teknologivurdering},
+  publisher = {Sundhedsstyrelsen},
+  year =      {2007},
+  author =    {Finn Børlum Kristensen and Helga Sigmund}
+}
+
+@Electronic{livmoder,
+  author = {Graviditet.dk},
+  year =   {2016},
+  title =  {Livmoder},
+  url =    {http://www.graviditet.dk/livmoder}
+}
+
+@Electronic{Lontabel,
+  author = {Praktiserende Lægers Arbejdsgiverforening},
+  month =  {Maj},
+  year =   {2016},
+  title =  {Aktuel løntabel},
+  url =    {http://www.pla.dk/flx/overenskomster/overenskomst_for_laegesekretaerer_i_almen_praksis/aktuel_loen/}
+}
+
+@Electronic{overvaegt,
+  month =        {April},
   year =         {2016},
+  title =        {Overvægt i Danmark for 2013},
+  organization = {Danskernes sundhed},
   url =          {http://proxy.danskernessundhed.dk/SASVisualAnalyticsViewer/VisualAnalyticsViewer_guest.jsp?reportName=Overvaegt&reportPath=%2FDanskernes_sundhed%2F}
 }
 
-@Book{Leavitt,
-  title     = {Metodehåndbog for medicinsk teknologivurdering},
-  publisher = {Sundhedsstyrelsen},
-  year      = {2007},
-  author    = {Finn Børlum Kristensen Helga Sigmund},
+@Electronic{RegionAnsvar,
+  author = {Danske Regioner},
+  month =  {Maj},
+  year =   {2016},
+  title =  {Regionernes opgaver},
+  url =    {http://www.regioner.dk/om+regionerne/regionernes+opgaver}
 }
 
-@Book{Leavitt,
-  title     = {Metodehåndbog for medicinsk teknologivurdering},
-  publisher = {Sundhedsstyrelsen},
-  year      = {2007},
-  author    = {Finn Børlum Kristensen Helga Sigmund},
-}
-
-@Book{Leavitt,
-  title     = {Metodehåndbog for medicinsk teknologivurdering},
-  publisher = {Sundhedsstyrelsen},
-  year      = {2007},
-  author    = {Finn Børlum Kristensen Helga Sigmund},
-}
-
-@Article{BeckyMorton2007,
-  author  = {Becky Morton and Penny Delf},
-  title   = {The prevalence and causes of MSI amongst sonographers},
-  journal = {Elsevier Ltd},
-  year    = {2007},
-}
-
-@Article{Lea1985,
-  author  = {Jean Hedrick Lea},
-  title   = {Psychosocial Progression Through Normal Pregnancy: A Model for Sonographer-Patient Interaction},
-  journal = {Journal of Diagnostic Medical Sonography},
-  year    = {1985},
-}
-
-@Comment{jabref-meta: databaseType:bibtex;}
+@comment{jabref-meta: databaseType:bibtex;}

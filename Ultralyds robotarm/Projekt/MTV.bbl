@@ -1,13 +1,13 @@
 \begin{thebibliography}{10}
 
 \bibitem{31}
-Carolyn~T Coffin.
+Carolyn~T. Coffin;.
 \newblock Work-related musculoskeletal disorders in sonographers: a review of
   cause and types og injury and best practices for reducing injury risk.
 \newblock {\em Dovepress}, 2014.
 
 \bibitem{24}
-Joan~P. Baker and Carolyn~T. Coffin.
+Joan~P. Baker and Carolyn~T. Coffin;.
 \newblock The importance of an ergonomic workstation to practicing
   sonographers.
 \newblock {\em J Ultrasound Med}, 2013.
@@ -16,7 +16,7 @@ Joan~P. Baker and Carolyn~T. Coffin.
 Shawn~C. Roll, Lauren Selhorst, and Kevin~D. Evans.
 \newblock Contribution of positioning to work-related musculoskeletal
   discomfort in diagnostic medical sonographers.
-\newblock 2012.
+\newblock {\em IOS Press}, 2012.
 
 \bibitem{32}
 Becky Morton and Penny Delf.
@@ -24,12 +24,10 @@ Becky Morton and Penny Delf.
 \newblock {\em Elsevier Ltd}, 2007.
 
 \bibitem{Foedsler}
-Danmarks Statestik.
-\newblock {\em Danmarks Statestik}, April 2016.
+Statestik over fødsler dk, April 2016.
 
 \bibitem{Overvaegt}
-Danskernes sundhed.
-\newblock {\em Overvaegt}, April 2016.
+Overvægt i danmark for 2013, April 2016.
 
 \bibitem{8}
 Francois Conti, Jaeheung Park, and Oussama Khatib.
@@ -38,19 +36,19 @@ Francois Conti, Jaeheung Park, and Oussama Khatib.
 \newblock {\em Artificial Intelligence Laboratory, Stanford University}, 2014.
 
 \bibitem{18}
-P.~ARBEILLE, J.~RUIZ, P.~HERVE, M.~CHEVILLOT, G.~POISSON, and F.~PERROTIN.
+P.~Arbeille, J.~Ruiz, P.~Herve, M.~Chevillot, G.~Poisson, and F.~Perrotin.
 \newblock Fetal tele-echography using a robotic arm and a satellite link.
 \newblock {\em Wiley InterScience}, 2005.
 
 \bibitem{30}
-Beth L.~Veale Jeremy~Alaniz.
+Jeremy Alaniz and Beth~L. Veale.
 \newblock Stretching for sonographers: A literature review of
   sonographer-reported musculoskeletale injuries.
 \newblock {\em Journal of Diagnostic Medical Sonography}, 2013.
 
 \bibitem{6gradersfrihed}
 LifeHealthCare.
-\newblock {\em M6 Artificial Cervical Disc}, May 2016.
+\newblock M6 artificial cervical disc, Maj 2016.
 
 \bibitem{Hjerterobot}
 Philippe Arbeille and Romain Provost.
@@ -59,34 +57,34 @@ Philippe Arbeille and Romain Provost.
 \newblock {\em Elsevier}, 2014.
 
 \bibitem{Leavitt}
-Finn Børlum Kristensen~Helga Sigmund.
+Finn~Børlum Kristensen and Helga Sigmund.
 \newblock {\em Metodehåndbog for medicinsk teknologivurdering}.
 \newblock Sundhedsstyrelsen, 2007.
 
 \bibitem{diamantmodel}
 Danmarks~læringsportal EMU.
-\newblock Leavitt's diamantmodel.
-\newblock May 2016.
+\newblock Leavitt's diamantmodel, Maj 2016.
 
 \bibitem{graviditet}
 Thomas Bergholt.
-\newblock Ultralydsskanning i graviditeten.
-\newblock September 2014 2014.
+\newblock Ultralydsskanning i graviditeten, September 2014.
 
 \bibitem{kvinderovervaegt}
 Miriam Meister.
-\newblock Danske kvinders vægt går fortsat opad.
-\newblock October 2015.
+\newblock Danske kvinders vægt går fortsat opad, Oktober 2015.
 
 \bibitem{1}
 Lois~M. Wihlidal and Shrawan Kumar.
 \newblock An injury profile of practicing diagnostic medical sonographers in
   alberta.
-\newblock {\em International Journal of Industrial Ergonomics}, mar 1997.
+\newblock {\em International Journal of Industrial Ergonomics}, Marts 1997.
+
+\bibitem{livmoder}
+Graviditet.dk.
+\newblock Livmoder, 2016.
 
 \bibitem{35}
-Developed through a consensus conference hosted by Society~of Diagnostic
-  Medical~Sonography.
+Society of~Diagnostic Medical~Sonography.
 \newblock Industry standarts for the preventation of work-related
   musculoskeletal disorders in sonography.
 \newblock {\em Journal of Diagnostic Medical Sonography}, 2003.
@@ -107,10 +105,20 @@ Jørgen Husted.
 \newblock {\em Etik og værdier i socialt arbejde}.
 \newblock Hans Reitzels Forlag, 2009.
 
+\bibitem{Arbejdsmiljo}
+Danske Regioner.
+\newblock Arbejdsmiljø, sygefravær og trivsel, Maj 2016.
+
+\bibitem{RegionAnsvar}
+Danske Regioner.
+\newblock Regionernes opgaver, Maj 2016.
+
 \bibitem{Lontabel}
-{\em Aktuel løntabel}, may 2016.
+Praktiserende~Lægers Arbejdsgiverforening.
+\newblock Aktuel løntabel, Maj 2016.
 
 \bibitem{Arbejdstid}
-{\em Arbejdstidens længde}, may 2016.
+Moderniseringsstyrelsen.
+\newblock Arbejdstidens længde, Maj 2016.
 
 \end{thebibliography}

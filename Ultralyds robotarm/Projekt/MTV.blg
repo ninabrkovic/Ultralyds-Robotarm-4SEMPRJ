@@ -3,8 +3,8 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: MTV.aux
 The style file: unsrt.bst
 A level-1 auxiliary file: Filer/Forside.aux
-A level-1 auxiliary file: Filer/Abstract.aux
 A level-1 auxiliary file: Filer/Resume.aux
+A level-1 auxiliary file: Filer/Abstract.aux
 A level-1 auxiliary file: Filer/Forord.aux
 A level-1 auxiliary file: Filer/Forkortelser.aux
 A level-1 auxiliary file: Filer/Indledning.aux
@@ -13,55 +13,72 @@ A level-1 auxiliary file: Filer/Teknologi.aux
 A level-1 auxiliary file: Filer/Organisation.aux
 A level-1 auxiliary file: Filer/Patient_etik.aux
 A level-1 auxiliary file: Filer/OEkonomi.aux
+A level-1 auxiliary file: Filer/Diskussion.aux
 A level-1 auxiliary file: Filer/Konklusion.aux
 A level-1 auxiliary file: Filer/Perspektivering.aux
 A level-1 auxiliary file: Filer/Bilag.aux
 Database file #1: bibliografi/Ref.bib
-Name 2 in "Joan P. Baker and Carolyn T. Coffin," has a comma at the end for entry 24
-while executing---line 944 of file unsrt.bst
-Warning--empty journal in 36
-Warning--empty journal in diamantmodel
-Warning--empty journal in graviditet
-Warning--empty journal in kvinderovervaegt
-You've used 22 entries,
+Warning--entry type for "6gradersfrihed" isn't style-file defined
+--line 149 of file bibliografi/Ref.bib
+Warning--entry type for "Arbejdsmiljo" isn't style-file defined
+--line 179 of file bibliografi/Ref.bib
+Warning--entry type for "Arbejdstid" isn't style-file defined
+--line 195 of file bibliografi/Ref.bib
+Warning--entry type for "diamantmodel" isn't style-file defined
+--line 211 of file bibliografi/Ref.bib
+Warning--entry type for "Foedsler" isn't style-file defined
+--line 243 of file bibliografi/Ref.bib
+Warning--entry type for "graviditet" isn't style-file defined
+--line 259 of file bibliografi/Ref.bib
+Warning--entry type for "kvinderovervaegt" isn't style-file defined
+--line 349 of file bibliografi/Ref.bib
+Warning--entry type for "livmoder" isn't style-file defined
+--line 379 of file bibliografi/Ref.bib
+Warning--entry type for "Lontabel" isn't style-file defined
+--line 393 of file bibliografi/Ref.bib
+Warning--entry type for "overvaegt" isn't style-file defined
+--line 409 of file bibliografi/Ref.bib
+Warning--entry type for "RegionAnsvar" isn't style-file defined
+--line 425 of file bibliografi/Ref.bib
+You've used 25 entries,
             1791 wiz_defined-function locations,
-            550 strings with 6156 characters,
-and the built_in function-call counts, 2939 in all, are:
-= -- 229
-> -- 122
+            568 strings with 6411 characters,
+and the built_in function-call counts, 3389 in all, are:
+= -- 250
+> -- 148
 < -- 0
-+ -- 53
-- -- 31
-* -- 115
-:= -- 507
-add.period$ -- 59
-call.type$ -- 22
-change.case$ -- 14
++ -- 63
+- -- 38
+* -- 110
+:= -- 556
+add.period$ -- 62
+call.type$ -- 25
+change.case$ -- 22
 chr.to.int$ -- 0
-cite$ -- 26
+cite$ -- 25
 duplicate$ -- 173
-empty$ -- 323
-format.name$ -- 31
-if$ -- 645
+empty$ -- 410
+format.name$ -- 38
+if$ -- 764
 int.to.chr$ -- 0
-int.to.str$ -- 22
-missing$ -- 20
-newline$ -- 106
-num.names$ -- 18
-pop$ -- 87
+int.to.str$ -- 25
+missing$ -- 17
+newline$ -- 115
+num.names$ -- 23
+pop$ -- 133
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 66
+skip$ -- 90
 stack$ -- 0
 substring$ -- 0
-swap$ -- 19
+swap$ -- 25
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 4
-while$ -- 18
-width$ -- 24
-write$ -- 204
-(There was 1 error message)
+warning$ -- 0
+while$ -- 23
+width$ -- 27
+write$ -- 226
+(There were 11 warnings)

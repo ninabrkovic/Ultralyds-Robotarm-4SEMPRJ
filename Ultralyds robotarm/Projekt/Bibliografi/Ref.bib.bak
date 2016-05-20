@@ -1,5 +1,27 @@
 % Encoding: UTF-8
 
+@Article{1,
+  author  = {Lois M. Wihlidal and Shrawan Kumar},
+  title   = {An injury profile of practicing diagnostic medical sonographers in Alberta},
+  journal = {International Journal of Industrial Ergonomics},
+  year    = {1997},
+  month   = {Marts},
+}
+
+@Article{18,
+  author =  {P. Arbeille and J. Ruiz and P. Herve and M. Chevillot and G. Poisson and F. Perrotin},
+  title =   {Fetal tele-echography using a robotic arm and a satellite link},
+  journal = {Wiley InterScience},
+  year =    {2005}
+}
+
+@Article{24,
+  author =  {Joan P. Baker and Carolyn T. Coffin;},
+  title =   {The Importance of an Ergonomic Workstation to Practicing Sonographers},
+  journal = {J Ultrasound Med},
+  year =    {2013}
+}
+
 @Article{29,
   author  = {Jean Hedrick Lea},
   title   = {Psychosocial Progression Through Normal Pregnancy: A Model for Sonographer-Patient Interaction},
@@ -8,14 +30,14 @@
 }
 
 @Article{30,
-  author =  {Jeremy Alaniz, Beth L. Veale},
+  author =  {Jeremy Alaniz and Beth L. Veale},
   title =   {Stretching for Sonographers: A Literature Review of Sonographer-Reported Musculoskeletale injuries},
   journal = {Journal of Diagnostic Medical Sonography},
   year =    {2013}
 }
 
 @Article{31,
-  author =  {Carolyn T Coffin},
+  author =  {Carolyn T. Coffin;},
   title =   {Work-related Musculoskeletal disorders in sonographers: a review of cause and types og injury and best practices for reducing injury risk},
   journal = {Dovepress},
   year =    {2014}
@@ -29,42 +51,97 @@
 }
 
 @Article{35,
-  author =  {Developed through a consensus conference hosted by Society of Diagnostic Medical Sonography},
+  author =  {Society of Diagnostic Medical Sonography},
   title =   {Industry Standarts for the Preventation of Work-Related Musculoskeletal Disorders in Sonography},
   journal = {Journal of Diagnostic Medical Sonography},
   year =    {2003}
 }
 
-@Manual{6gradersfrihed,
-  title  = {M6 Artificial Cervical Disc},
+@Article{36,
+  author =  {Shawn C. Roll and Lauren Selhorst and Kevin D. Evans},
+  title =   {Contribution of positioning to work-related musculoskeletal discomfort in diagnostic medical sonographers},
+  journal = {IOS Press},
+  year =    {2012}
+}
+
+@Article{5,
+  author  = {Kurt Boman and Mona Olofsson and Peter Berggren and Partho P. Sengupta and Jagat Narula},
+  title   = {Robot-assisted remote echocardiographic examination and teleconsultation: a randomized comparison of time to diagnosis with standard of care referral approach},
+  journal = {Elsevier Inc.},
+  year    = {2014},
+  month   = {August},
+}
+
+@Electronic{6gradersfrihed,
   author = {LifeHealthCare},
-  month  = {Maj},
-  year   = {2016},
-  url    = {http://lifehealthcare.com.au/m6/},
+  month =  {Maj},
+  year =   {2016},
+  title =  {M6 Artificial Cervical Disc},
+  url =    {http://lifehealthcare.com.au/m6/}
 }
 
-@Article{diamantmodel,
+@Article{8,
+  author =  {Francois Conti and Jaeheung Park and Oussama Khatib},
+  title =   {Interface Design and Control Strategies for a Robot Assisted Ultrasonic Examination System},
+  journal = {Artificial Intelligence Laboratory, Stanford University},
+  year =    {2014}
+}
+
+@Electronic{Arbejdsmiljo,
+  author = {Danske Regioner},
+  month =  {Maj},
+  year =   {2016},
+  title =  {Arbejdsmiljø, sygefravær og trivsel},
+  url =    {http://www.regioner.dk/arbejdsgiver/arbejdsmilj-oe-+sygefrav%C3%A6r+og+trivsel}
+}
+
+@Electronic{Arbejdstid,
+  author = {Moderniseringsstyrelsen},
+  month =  {Maj},
+  year =   {2016},
+  title =  {Arbejdstidens længde},
+  url =    {http://pav.perst.dk/Publikation/Arbejdstidsregler%20mv/Tjenestemaend/Arbejdstidens%20laengde.aspx}
+}
+
+@Electronic{diamantmodel,
   author = {EMU, Danmarks læringsportal},
-  title  = {Leavitt's diamantmodel},
-  year   = {2016},
-  month  = {Maj},
-  url    = {http://www.emu.dk/modul/leavitt%E2%80%99s-diamantmodel},
+  month =  {Maj},
+  year =   {2016},
+  title =  {Leavitt's diamantmodel},
+  url =    {http://www.emu.dk/modul/leavitt%E2%80%99s-diamantmodel}
 }
 
-@Manual{Foedsler,
-  title        = {Danmarks Statestik},
+@Book{Etiskehjul,
+  title     = {Etik og værdier i socialt arbejde},
+  publisher = {Hans Reitzels Forlag},
+  year      = {2009},
+  author    = {Jørgen Husted},
+  url       = {http://www.hansreitzel.dk/Socialt-arbejde/Etik-og-v%C3%A6rdier-i-socialt-arbejde/9788741253329},
+}
+
+@Electronic{Foedsler,
+  month =        {April},
+  year =         {2016},
+  title =        {Statestik over fødsler DK},
   organization = {Danmarks Statestik},
-  month        = {April},
-  year         = {2016},
-  url          = {https://www.dst.dk/da/Statistik/emner/foedsler/foedsler?tab=nog},
+  url =          {https://www.dst.dk/da/Statistik/emner/foedsler/foedsler?tab=nog}
 }
 
-@Article{graviditet,
+@Electronic{graviditet,
   author = {Thomas Bergholt},
-  title  = {Ultralydsskanning i graviditeten},
-  year   = {2014},
-  month  = {September},
-  url    = {https://www.sundhed.dk/borger/sygdomme-a-aa/graviditet/undersoegelser/ultralydskanning-i-graviditeten/},
+  month =  {September},
+  year =   {2014},
+  title =  {Ultralydsskanning i graviditeten},
+  url =    {https://www.sundhed.dk/borger/sygdomme-a-aa/graviditet/undersoegelser/ultralydskanning-i-graviditeten/}
+}
+
+@Manual{greenland,
+  title =        {Sunhedsvæsnet i Grønland},
+  author =       {Nordisk Råd and Nordisk Ministerråd},
+  organization = {Norden},
+  year =         {2016},
+  note =         {http://www.norden.org/da/hallo-norden/groenland/bo-og-opholde-sig-i-groenland/sundhedsvaesnet-i-groenland},
+  url =          {http://www.norden.org/da/hallo-norden/groenland/bo-og-opholde-sig-i-groenland/sundhedsvaesnet-i-groenland}
 }
 
 @Article{Hjerterobot,
@@ -96,106 +173,19 @@
   url    = {http://da.tradingeconomics.com/denmark/inflation-cpi/forecast},
 }
 
-@Article{kvinderovervaegt,
+@Electronic{kvinderovervaegt,
   author = {Miriam Meister},
-  title  = {Danske kvinders vægt går fortsat opad},
-  year   = {2015},
-  month  = {Oktober},
-  url    = {http://www.food.dtu.dk/Nyheder/2015/10/Danske-kvinders-vaegt-gaar-fortsat-opad?id=f6c2e6a3-1b11-4d9f-9c11-342da2142486&utm_source=newsletter&utm_media=mail&utm_campaign=},
+  month =  {Oktober},
+  year =   {2015},
+  title =  {Danske kvinders vægt går fortsat opad},
+  url =    {http://www.food.dtu.dk/Nyheder/2015/10/Danske-kvinders-vaegt-gaar-fortsat-opad?id=f6c2e6a3-1b11-4d9f-9c11-342da2142486&utm_source=newsletter&utm_media=mail&utm_campaign=}
 }
 
 @Book{Leavitt,
-  title     = {Metodehåndbog for medicinsk teknologivurdering},
+  title =     {Metodehåndbog for medicinsk teknologivurdering},
   publisher = {Sundhedsstyrelsen},
-  year      = {2007},
-  author    = {Finn Børlum Kristensen Helga Sigmund},
-}
-
-@Manual{overvaegt,
-  title        = {Overvaegt},
-  organization = {Danskernes sundhed},
-  month        = {April},
-  year         = {2016},
-  url          = {http://proxy.danskernessundhed.dk/SASVisualAnalyticsViewer/VisualAnalyticsViewer_guest.jsp?reportName=Overvaegt&reportPath=%2FDanskernes_sundhed%2F},
-}
-
-@Manual{Arbejdstid,
-  title = {Arbejdstidens længde},
-  month = {Maj},
-  year  = {2016},
-  url   = {http://pav.perst.dk/Publikation/Arbejdstidsregler%20mv/Tjenestemaend/Arbejdstidens%20laengde.aspx},
-}
-
-@Manual{Lontabel,
-  title = {Aktuel løntabel},
-  month = {Maj},
-  year  = {2016},
-  url   = {http://www.pla.dk/flx/overenskomster/overenskomst_for_laegesekretaerer_i_almen_praksis/aktuel_loen/},
-}
-
-@Manual{Arbejdsmiljo,
-  title = {Arbejdsmiljø, sygefravær og trivsel},
-  month = {Maj},
-  year  = {2016},
-  url   = {http://www.regioner.dk/arbejdsgiver/arbejdsmilj-oe-+sygefrav%C3%A6r+og+trivsel},
-}
-
-@Manual{RegionAnsvar,
-  title = {Regionernes opgaver},
-  month = {Maj},
-  year  = {2016},
-  url   = {http://www.regioner.dk/om+regionerne/regionernes+opgaver},
-}
-
-@Article{1,
-  author  = {Lois M. Wihlidal and Shrawan Kumar},
-  title   = {An injury profile of practicing diagnostic medical sonographers in Alberta},
-  journal = {International Journal of Industrial Ergonomics},
-  year    = {1997},
-  month   = {Marts},
-}
-
-@Article{5,
-  author  = {Kurt Boman and Mona Olofsson and Peter Berggren and Partho P. Sengupta and Jagat Narula},
-  title   = {Robot-assisted remote echocardiographic examination and teleconsultation: a randomized comparison of time to diagnosis with standard of care referral approach},
-  journal = {Elsevier Inc.},
-  year    = {2014},
-  month   = {August},
-}
-
-@Article{8,
-  author  = {Francois Conti and Jaeheung Park and Oussama Khatib},
-  title   = {Interface design and control strategies for a robot assisted ultrasonic examination system},
-  journal = {Artificial Intelligence Laboratory, Stanford University},
-  year    = {2014},
-}
-
-@Article{18,
-  author  = {P. ARBEILLE and J. RUIZ and P. HERVE and M. CHEVILLOT and G. POISSON and F. PERROTIN},
-  title   = {Fetal tele-echography using a robotic arm and a satellite link},
-  journal = {Wiley InterScience},
-  year    = {2005},
-}
-
-@Article{24,
-  author  = {Joan P. Baker and Carolyn T. Coffin,},
-  title   = {The importance of an ergonomic workstation to practicing sonographers},
-  journal = {J Ultrasound Med},
-  year    = {2013},
-}
-
-@Article{36,
-  author = {Shawn C. Roll and Lauren Selhorst and Kevin D. Evans},
-  title  = {Contribution of positioning to work-related musculoskeletal discomfort in diagnostic medical sonographers},
-  year   = {2012},
-}
-
-@Book{Etiskehjul,
-  title     = {Etik og værdier i socialt arbejde},
-  publisher = {Hans Reitzels Forlag},
-  year      = {2009},
-  author    = {Jørgen Husted},
-  url       = {http://www.hansreitzel.dk/Socialt-arbejde/Etik-og-v%C3%A6rdier-i-socialt-arbejde/9788741253329},
+  year =      {2007},
+  author =    {Finn Børlum Kristensen and Helga Sigmund}
 }
 
 @Manual{livmoder,
@@ -205,12 +195,28 @@
   url    = {http://www.graviditet.dk/livmoder},
 }
 
-@Manual{greenland,
-  title        = {Sunhedsvæsnet i Grønland},
-  author       = {Nordisk Råd and Nordisk Ministerråd},
-  organization = {Norden},
-  year         = {2016},
-  url          = {http://www.norden.org/da/hallo-norden/groenland/bo-og-opholde-sig-i-groenland/sundhedsvaesnet-i-groenland},
+@Electronic{Lontabel,
+  author = {Praktiserende Lægers Arbejdsgiverforening},
+  month =  {Maj},
+  year =   {2016},
+  title =  {Aktuel løntabel},
+  url =    {http://www.pla.dk/flx/overenskomster/overenskomst_for_laegesekretaerer_i_almen_praksis/aktuel_loen/}
 }
 
-@Comment{jabref-meta: databaseType:bibtex;}
+@Electronic{overvaegt,
+  month =        {April},
+  year =         {2016},
+  title =        {Overvægt i Danmark for 2013},
+  organization = {Danskernes sundhed},
+  url =          {http://proxy.danskernessundhed.dk/SASVisualAnalyticsViewer/VisualAnalyticsViewer_guest.jsp?reportName=Overvaegt&reportPath=%2FDanskernes_sundhed%2F}
+}
+
+@Electronic{RegionAnsvar,
+  author = {Danske Regioner},
+  month =  {Maj},
+  year =   {2016},
+  title =  {Regionernes opgaver},
+  url =    {http://www.regioner.dk/om+regionerne/regionernes+opgaver}
+}
+
+@comment{jabref-meta: databaseType:bibtex;}
