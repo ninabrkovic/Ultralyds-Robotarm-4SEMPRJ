@@ -73,11 +73,13 @@
 }
 
 @Electronic{6gradersfrihed,
-  author = {LifeHealthCare},
-  month =  {Maj},
-  year =   {2016},
-  title =  {M6 Artificial Cervical Disc},
-  url =    {http://lifehealthcare.com.au/m6/}
+  author       = {LifeHealthCare},
+  month        = {Maj},
+  year         = {2016},
+  title        = {M6 Artificial Cervical Disc},
+  organization = {http://lifehealthcare.com.au/m6/},
+  address      = {http://lifehealthcare.com.au/m6/},
+  url          = {http://lifehealthcare.com.au/m6/},
 }
 
 @Article{8,
@@ -135,12 +137,11 @@
   url =    {https://www.sundhed.dk/borger/sygdomme-a-aa/graviditet/undersoegelser/ultralydskanning-i-graviditeten/}
 }
 
-@Manual{greenland,
-  title =        {Sunhedsvæsnet i Grønland},
+@Electronic{greenland,
   author =       {Nordisk Råd and Nordisk Ministerråd},
-  organization = {Norden},
   year =         {2016},
-  note =         {http://www.norden.org/da/hallo-norden/groenland/bo-og-opholde-sig-i-groenland/sundhedsvaesnet-i-groenland},
+  title =        {Sunhedsvæsnet i Grønland},
+  organization = {Norden},
   url =          {http://www.norden.org/da/hallo-norden/groenland/bo-og-opholde-sig-i-groenland/sundhedsvaesnet-i-groenland}
 }
 
@@ -165,12 +166,12 @@
   author =    {Jørgen Husted}
 }
 
-@Article{inflation,
+@Electronic{inflation,
   author = {Trading Economics},
-  title  = {Danmarks infllation-Rate prognose},
-  year   = {2016},
-  month  = {Maj},
-  url    = {http://da.tradingeconomics.com/denmark/inflation-cpi/forecast},
+  month =  {Maj},
+  year =   {2016},
+  title =  {Danmarks infllation-Rate prognose},
+  url =    {http://da.tradingeconomics.com/denmark/inflation-cpi/forecast}
 }
 
 @Electronic{kvinderovervaegt,
@@ -188,11 +189,11 @@
   author =    {Finn Børlum Kristensen and Helga Sigmund}
 }
 
-@Manual{livmoder,
-  title  = {Livmoder},
+@Electronic{livmoder,
   author = {Graviditet.dk},
-  year   = {2016},
-  url    = {http://www.graviditet.dk/livmoder},
+  year =   {2016},
+  title =  {Livmoder},
+  url =    {http://www.graviditet.dk/livmoder}
 }
 
 @Electronic{Lontabel,
@@ -219,4 +220,4 @@
   url =    {http://www.regioner.dk/om+regionerne/regionernes+opgaver}
 }
 
-@comment{jabref-meta: databaseType:bibtex;}
+@Comment{jabref-meta: databaseType:bibtex;}
