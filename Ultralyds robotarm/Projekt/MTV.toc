@@ -31,7 +31,7 @@
 \contentsline {subsection}{\numberline {4.3.4}Struktur}{13}{subsection.4.3.4}
 \contentsline {section}{\numberline {4.4}Delkonklusion}{14}{section.4.4}
 \contentsline {chapter}{\chapternumberline {5}Patient}{15}{chapter.5}
-\contentsline {section}{\numberline {5.1}De fem patient aspekter}{15}{section.5.1}
+\contentsline {section}{\numberline {5.1}De fem patientaspekter}{15}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}Sociale forhold}{15}{subsection.5.1.1}
 \contentsline {subsection}{\numberline {5.1.2}Kommunikative forhold}{16}{subsection.5.1.2}
 \contentsline {subsection}{\numberline {5.1.3}Individuelle forhold}{16}{subsection.5.1.3}
