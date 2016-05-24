@@ -30,6 +30,8 @@ Warning--entry type for "Foedsler" isn't style-file defined
 --line 243 of file bibliografi/Ref.bib
 Warning--entry type for "graviditet" isn't style-file defined
 --line 259 of file bibliografi/Ref.bib
+Warning--entry type for "greenland" isn't style-file defined
+--line 275 of file bibliografi/Ref.bib
 Warning--entry type for "kvinderovervaegt" isn't style-file defined
 --line 349 of file bibliografi/Ref.bib
 Warning--entry type for "livmoder" isn't style-file defined
@@ -40,45 +42,45 @@ Warning--entry type for "overvaegt" isn't style-file defined
 --line 409 of file bibliografi/Ref.bib
 Warning--entry type for "RegionAnsvar" isn't style-file defined
 --line 425 of file bibliografi/Ref.bib
-You've used 25 entries,
+You've used 27 entries,
             1791 wiz_defined-function locations,
-            568 strings with 6411 characters,
-and the built_in function-call counts, 3389 in all, are:
-= -- 250
-> -- 148
+            576 strings with 6748 characters,
+and the built_in function-call counts, 3713 in all, are:
+= -- 271
+> -- 173
 < -- 0
-+ -- 63
-- -- 38
-* -- 110
-:= -- 556
-add.period$ -- 62
-call.type$ -- 25
-change.case$ -- 22
++ -- 72
+- -- 45
+* -- 127
+:= -- 612
+add.period$ -- 67
+call.type$ -- 27
+change.case$ -- 24
 chr.to.int$ -- 0
-cite$ -- 25
-duplicate$ -- 173
-empty$ -- 410
-format.name$ -- 38
-if$ -- 764
+cite$ -- 27
+duplicate$ -- 186
+empty$ -- 442
+format.name$ -- 45
+if$ -- 834
 int.to.chr$ -- 0
-int.to.str$ -- 25
-missing$ -- 17
-newline$ -- 115
-num.names$ -- 23
-pop$ -- 133
+int.to.str$ -- 27
+missing$ -- 18
+newline$ -- 124
+num.names$ -- 25
+pop$ -- 143
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 90
+skip$ -- 98
 stack$ -- 0
 substring$ -- 0
-swap$ -- 25
+swap$ -- 27
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 23
-width$ -- 27
-write$ -- 226
-(There were 11 warnings)
+while$ -- 25
+width$ -- 29
+write$ -- 244
+(There were 12 warnings)

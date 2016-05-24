@@ -1,10 +1,10 @@
 \begin{thebibliography}{10}
 
-\bibitem{31}
-Carolyn~T. Coffin;.
-\newblock Work-related musculoskeletal disorders in sonographers: a review of
-  cause and types og injury and best practices for reducing injury risk.
-\newblock {\em Dovepress}, 2014.
+\bibitem{1}
+Lois~M. Wihlidal and Shrawan Kumar.
+\newblock An injury profile of practicing diagnostic medical sonographers in
+  alberta.
+\newblock {\em International Journal of Industrial Ergonomics}, Marts 1997.
 
 \bibitem{24}
 Joan~P. Baker and Carolyn~T. Coffin;.
@@ -12,16 +12,22 @@ Joan~P. Baker and Carolyn~T. Coffin;.
   sonographers.
 \newblock {\em J Ultrasound Med}, 2013.
 
-\bibitem{36}
-Shawn~C. Roll, Lauren Selhorst, and Kevin~D. Evans.
-\newblock Contribution of positioning to work-related musculoskeletal
-  discomfort in diagnostic medical sonographers.
-\newblock {\em IOS Press}, 2012.
+\bibitem{31}
+Carolyn~T. Coffin;.
+\newblock Work-related musculoskeletal disorders in sonographers: a review of
+  cause and types og injury and best practices for reducing injury risk.
+\newblock {\em Dovepress}, 2014.
 
 \bibitem{32}
 Becky Morton and Penny Delf.
 \newblock The prevalence and causes of msi amongst sonographers.
 \newblock {\em Elsevier Ltd}, 2007.
+
+\bibitem{36}
+Shawn~C. Roll, Lauren Selhorst, and Kevin~D. Evans.
+\newblock Contribution of positioning to work-related musculoskeletal
+  discomfort in diagnostic medical sonographers.
+\newblock {\em IOS Press}, 2012.
 
 \bibitem{Foedsler}
 Statestik over fødsler dk, April 2016.
@@ -34,6 +40,14 @@ Francois Conti, Jaeheung Park, and Oussama Khatib.
 \newblock Interface design and control strategies for a robot assisted
   ultrasonic examination system.
 \newblock {\em Artificial Intelligence Laboratory, Stanford University}, 2014.
+
+\bibitem{5}
+Kurt Boman, Mona Olofsson, Peter Berggren, Partho~P. Sengupta, and Jagat
+  Narula.
+\newblock Robot-assisted remote echocardiographic examination and
+  teleconsultation: a randomized comparison of time to diagnosis with standard
+  of care referral approach.
+\newblock {\em Elsevier Inc.}, August 2014.
 
 \bibitem{18}
 P.~Arbeille, J.~Ruiz, P.~Herve, M.~Chevillot, G.~Poisson, and F.~Perrotin.
@@ -72,12 +86,6 @@ Thomas Bergholt.
 \bibitem{kvinderovervaegt}
 Miriam Meister.
 \newblock Danske kvinders vægt går fortsat opad, Oktober 2015.
-
-\bibitem{1}
-Lois~M. Wihlidal and Shrawan Kumar.
-\newblock An injury profile of practicing diagnostic medical sonographers in
-  alberta.
-\newblock {\em International Journal of Industrial Ergonomics}, Marts 1997.
 
 \bibitem{livmoder}
 Graviditet.dk.
@@ -120,5 +128,9 @@ Praktiserende~Lægers Arbejdsgiverforening.
 \bibitem{Arbejdstid}
 Moderniseringsstyrelsen.
 \newblock Arbejdstidens længde, Maj 2016.
+
+\bibitem{greenland}
+Nordisk Råd and Nordisk Ministerråd.
+\newblock Sunhedsvæsnet i grønland, 2016.
 
 \end{thebibliography}
