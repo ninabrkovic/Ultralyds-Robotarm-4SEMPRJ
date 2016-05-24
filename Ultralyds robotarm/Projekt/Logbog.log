@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  24 MAY 2016 11:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  24 MAY 2016 14:39
 entering extended mode
 **Logbog.tex
 (Logbog.tex
@@ -2429,13 +2429,13 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 32.
  [27
 
 
@@ -2451,13 +2451,13 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 36.
  [28
 
 
@@ -2489,10 +2489,10 @@ Package rerunfilecheck Info: File `Logbog.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
  ) 
 Here is how much of TeX's memory you used:
- 28792 strings out of 493698
- 519247 string characters out of 3141969
+ 28795 strings out of 493698
+ 519296 string characters out of 3141969
  847787 words of memory out of 3000000
- 31407 multiletter control sequences out of 15000+200000
+ 31410 multiletter control sequences out of 15000+200000
  17001 words of font info for 52 fonts, out of 3000000 for 9000
  1027 hyphenation exceptions out of 8191
  48i,12n,40p,10484b,852s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2505,7 +2505,7 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files (x86)/Mi
 KTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on Logbog.pdf (28 pages, 224876 bytes).
+Output written on Logbog.pdf (28 pages, 225980 bytes).
 PDF statistics:
  470 PDF objects out of 1000 (max. 8388607)
  167 named destinations out of 1000 (max. 500000)
