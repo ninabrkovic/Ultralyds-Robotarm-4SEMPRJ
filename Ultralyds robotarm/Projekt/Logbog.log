@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  24 MAY 2016 11:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  24 MAY 2016 11:35
 entering extended mode
 **Logbog.tex
 (Logbog.tex
@@ -1766,7 +1766,8 @@ Package: nccmath 2005/02/21 v1.2 Additional Math Commands (NCC)
 (Logbogfiler/28-04-2016.aux) (Logbogfiler/02-05-2016.aux)
 (Logbogfiler/03-05-2016.aux) (Logbogfiler/05-05-2016.aux)
 (Logbogfiler/12-05-2016.aux) (Logbogfiler/17-05-2016.aux)
-(Logbogfiler/19-05-2016.aux) (Logbogfiler/20-05-2016.aux))
+(Logbogfiler/19-05-2016.aux) (Logbogfiler/20-05-2016.aux)
+(Logbogfiler/23-05-2016.aux) (Logbogfiler/24-05-2016.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
@@ -1974,7 +1975,7 @@ Package babel Info: Redefining danish shorthand "~
 
 
 
-] <Figurer/scanning.jpg, id=217, 432.306pt x 38.763pt>
+] <Figurer/scanning.jpg, id=233, 432.306pt x 38.763pt>
 File: Figurer/scanning.jpg Graphic file (type jpg)
 
 <use Figurer/scanning.jpg>
@@ -2244,13 +2245,13 @@ Package babel Info: Redefining danish shorthand "~
 
 ]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 67.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 67.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 67.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 67.
  [18]) (Logbogfiler/02-05-2016.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -2483,25 +2484,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
 (Logbogfiler/23-05-2016.aux) (Logbogfiler/24-05-2016.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
-
-
-Package rerunfilecheck Warning: File `Logbog.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Logbog.out':
-(rerunfilecheck)             Before: 0499D6C99C9C0184BF7F17DE1A3882FC;2421
-(rerunfilecheck)             After:  3D3697323F0F46C4849D8BF3F4EAECA8;2643.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `Logbog.out' has not changed.
+(rerunfilecheck)             Checksum: 3D3697323F0F46C4849D8BF3F4EAECA8;2643.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
  ) 
 Here is how much of TeX's memory you used:
- 28782 strings out of 493698
- 519041 string characters out of 3141969
- 845447 words of memory out of 3000000
- 31401 multiletter control sequences out of 15000+200000
+ 28792 strings out of 493698
+ 519247 string characters out of 3141969
+ 847787 words of memory out of 3000000
+ 31407 multiletter control sequences out of 15000+200000
  17001 words of font info for 52 fonts, out of 3000000 for 9000
  1027 hyphenation exceptions out of 8191
  48i,12n,40p,10484b,852s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2514,9 +2505,9 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files (x86)/Mi
 KTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on Logbog.pdf (28 pages, 223790 bytes).
+Output written on Logbog.pdf (28 pages, 224876 bytes).
 PDF statistics:
- 458 PDF objects out of 1000 (max. 8388607)
+ 470 PDF objects out of 1000 (max. 8388607)
  167 named destinations out of 1000 (max. 500000)
- 358 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 390 words of extra memory for PDF output out of 10000 (max. 10000000)
 
