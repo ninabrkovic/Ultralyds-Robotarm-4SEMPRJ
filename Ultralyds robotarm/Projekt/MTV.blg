@@ -1,5 +1,5 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: MTV.aux
-The style file: unsrt.bst
+The style file: biblatex.bst
 A level-1 auxiliary file: Filer/Forside.aux
 A level-1 auxiliary file: Filer/Resume.aux
 A level-1 auxiliary file: Filer/Abstract.aux
@@ -15,33 +15,6 @@ A level-1 auxiliary file: Filer/Diskussion.aux
 A level-1 auxiliary file: Filer/Konklusion.aux
 A level-1 auxiliary file: Filer/Perspektivering.aux
 A level-1 auxiliary file: Filer/Bilag.aux
-Database file #1: bibliografi/Ref.bib
-Warning--entry type for "6gradersfrihed" isn't style-file defined
---line 75 of file bibliografi/Ref.bib
-Warning--entry type for "Arbejdsmiljo" isn't style-file defined
---line 90 of file bibliografi/Ref.bib
-Warning--entry type for "Arbejdstid" isn't style-file defined
---line 98 of file bibliografi/Ref.bib
-Warning--entry type for "diamantmodel" isn't style-file defined
---line 106 of file bibliografi/Ref.bib
-Warning--entry type for "Foedsler" isn't style-file defined
---line 122 of file bibliografi/Ref.bib
-Warning--entry type for "graviditet" isn't style-file defined
---line 130 of file bibliografi/Ref.bib
-Warning--entry type for "greenland" isn't style-file defined
---line 138 of file bibliografi/Ref.bib
-Warning--entry type for "kvinderovervaegt" isn't style-file defined
---line 175 of file bibliografi/Ref.bib
-Warning--entry type for "livmoder" isn't style-file defined
---line 190 of file bibliografi/Ref.bib
-Warning--entry type for "Lontabel" isn't style-file defined
---line 197 of file bibliografi/Ref.bib
-Warning--entry type for "overvaegt" isn't style-file defined
---line 205 of file bibliografi/Ref.bib
-Warning--entry type for "RegionAnsvar" isn't style-file defined
---line 213 of file bibliografi/Ref.bib
-Warning--entry type for "Inflationsrate" isn't style-file defined
---line 221 of file bibliografi/Ref.bib
-Warning--entry type for "supersygehus" isn't style-file defined
---line 229 of file bibliografi/Ref.bib
-(There were 14 warnings)
+Database file #1: MTV-blx.bib
+Database file #2: Bibliografi/Ref.bib
+Biblatex version: 2.9

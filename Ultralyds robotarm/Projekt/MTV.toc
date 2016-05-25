@@ -1,4 +1,6 @@
 \changetocdepth {2}
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
 \select@language {danish}
 \contentsline {chapter}{Resum\IeC {\'e}}{i}{chapter*.1}
 \contentsline {subsubsection}{Indledning}{i}{section*.2}
@@ -26,7 +28,7 @@
 \contentsline {chapter}{\chapternumberline {3}Teknologi}{7}{chapter.3}
 \contentsline {section}{\numberline {3.1}Anvendelsesomr\IeC {\r a}de}{8}{section.3.1}
 \contentsline {section}{\numberline {3.2}Specifikationer}{9}{section.3.2}
-\contentsline {section}{\numberline {3.3}Effektivitet}{9}{section.3.3}
+\contentsline {section}{\numberline {3.3}Effektivitet}{10}{section.3.3}
 \contentsline {section}{\numberline {3.4}Sikkerhed}{10}{section.3.4}
 \contentsline {section}{\numberline {3.5}Delkonklusion}{10}{section.3.5}
 \contentsline {chapter}{\chapternumberline {4}Organisation}{11}{chapter.4}
@@ -54,5 +56,5 @@
 \contentsline {chapter}{\chapternumberline {7}Diskussion}{24}{chapter.7}
 \contentsline {chapter}{\chapternumberline {8}Konklusion}{26}{chapter.8}
 \contentsline {chapter}{\chapternumberline {9}Perspektivering}{27}{chapter.9}
-\contentsline {chapter}{\chapternumberline {10}Bilagsliste}{28}{chapter.10}
-\contentsline {chapter}{Litteratur}{29}{section*.26}
+\contentsline {chapter}{\chapternumberline {10}Bilagsliste}{29}{chapter.10}
+\contentsline {chapter}{Bibliografi}{30}{section*.28}

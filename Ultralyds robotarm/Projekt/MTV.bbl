@@ -1,145 +1,623 @@
-\begin{thebibliography}{10}
+% $ biblatex auxiliary file $
+% $ biblatex version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem{1}
-Lois~M. Wihlidal and Shrawan Kumar.
-\newblock An injury profile of practicing diagnostic medical sonographers in
-  alberta.
-\newblock {\em International Journal of Industrial Ergonomics}, Marts 1997.
+\entry{1}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wihlidal}{W.}%
+     {Lois~M.}{L.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kumar}{K.}%
+     {Shrawan}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WLM+1}
+  \strng{fullhash}{WLMKS1}
+  \field{title}{An injury profile of practicing diagnostic medical sonographers
+  in Alberta}
+  \field{journaltitle}{International Journal of Industrial Ergonomics}
+  \field{year}{1997}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{24}
-Joan~P. Baker and Carolyn~T. Coffin;.
-\newblock The importance of an ergonomic workstation to practicing
-  sonographers.
-\newblock {\em J Ultrasound Med}, 2013.
+\entry{24}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Baker}{B.}%
+     {Joan~P.}{J.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Coffin;}{C.}%
+     {Carolyn~T.}{C.~T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BJP+1}
+  \strng{fullhash}{BJPCCT1}
+  \field{title}{The Importance of an Ergonomic Workstation to Practicing
+  Sonographers}
+  \field{journaltitle}{J Ultrasound Med}
+  \field{year}{2013}
+\endentry
 
-\bibitem{31}
-Carolyn~T. Coffin;.
-\newblock Work-related musculoskeletal disorders in sonographers: a review of
-  cause and types og injury and best practices for reducing injury risk.
-\newblock {\em Dovepress}, 2014.
+\entry{31}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Coffin;}{C.}%
+     {Carolyn~T.}{C.~T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CCT1}
+  \strng{fullhash}{CCT1}
+  \field{title}{Work-related Musculoskeletal disorders in sonographers: a
+  review of cause and types og injury and best practices for reducing injury
+  risk}
+  \field{journaltitle}{Dovepress}
+  \field{year}{2014}
+\endentry
 
-\bibitem{32}
-Becky Morton and Penny Delf.
-\newblock The prevalence and causes of msi amongst sonographers.
-\newblock {\em Elsevier Ltd}, 2007.
+\entry{32}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Morton}{M.}%
+     {Becky}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Delf}{D.}%
+     {Penny}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MB+1}
+  \strng{fullhash}{MBDP1}
+  \field{title}{The prevalence and causes of MSI amongst sonographers}
+  \field{journaltitle}{Elsevier Ltd}
+  \field{year}{2007}
+\endentry
 
-\bibitem{36}
-Shawn~C. Roll, Lauren Selhorst, and Kevin~D. Evans.
-\newblock Contribution of positioning to work-related musculoskeletal
-  discomfort in diagnostic medical sonographers.
-\newblock {\em IOS Press}, 2012.
+\entry{36}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Roll}{R.}%
+     {Shawn~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Selhorst}{S.}%
+     {Lauren}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Evans}{E.}%
+     {Kevin~D.}{K.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RSC+1}
+  \strng{fullhash}{RSCSLEKD1}
+  \field{title}{Contribution of positioning to work-related musculoskeletal
+  discomfort in diagnostic medical sonographers}
+  \field{journaltitle}{IOS Press}
+  \field{year}{2012}
+\endentry
 
-\bibitem{Foedsler}
-Statestik over fødsler dk, April 2016.
+\entry{Foedsler}{online}{}
+  \list{organization}{1}{%
+    {Danmarks Statestik}%
+  }
+  \field{title}{Statestik over fødsler DK}
+  \verb{url}
+  \verb https://www.dst.dk/da/Statistik/emner/foedsler/foedsler?tab=nog
+  \endverb
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{Overvaegt}
-Overvægt i danmark for 2013, April 2016.
+\entry{Overvaegt}{online}{}
+  \list{organization}{1}{%
+    {Danskernes sundhed}%
+  }
+  \field{title}{Overvægt i Danmark for 2013}
+  \verb{url}
+  \verb http://proxy.danskernessundhed.dk/SASVisualAnalyticsViewer/VisualAnalyt
+  \verb icsViewer_guest.jsp?reportName=Overvaegt&reportPath=%2FDanskernes_sundh
+  \verb ed%2F
+  \endverb
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{8}
-Francois Conti, Jaeheung Park, and Oussama Khatib.
-\newblock Interface design and control strategies for a robot assisted
-  ultrasonic examination system.
-\newblock {\em Artificial Intelligence Laboratory, Stanford University}, 2014.
+\entry{8}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Conti}{C.}%
+     {Francois}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Park}{P.}%
+     {Jaeheung}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Khatib}{K.}%
+     {Oussama}{O.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CF+1}
+  \strng{fullhash}{CFPJKO1}
+  \field{title}{Interface Design and Control Strategies for a Robot Assisted
+  Ultrasonic Examination System}
+  \field{journaltitle}{Artificial Intelligence Laboratory, Stanford University}
+  \field{year}{2014}
+\endentry
 
-\bibitem{5}
-Kurt Boman, Mona Olofsson, Peter Berggren, Partho~P. Sengupta, and Jagat
-  Narula.
-\newblock Robot-assisted remote echocardiographic examination and
+\entry{5}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Boman}{B.}%
+     {Kurt}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Olofsson}{O.}%
+     {Mona}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Berggren}{B.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sengupta}{S.}%
+     {Partho~P.}{P.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Narula}{N.}%
+     {Jagat}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BK+1}
+  \strng{fullhash}{BKOMBPSPPNJ1}
+  \field{title}{Robot-assisted remote echocardiographic examination and
   teleconsultation: a randomized comparison of time to diagnosis with standard
-  of care referral approach.
-\newblock {\em Elsevier Inc.}, August 2014.
+  of care referral approach}
+  \field{journaltitle}{Elsevier Inc.}
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{18}
-P.~Arbeille, J.~Ruiz, P.~Herve, M.~Chevillot, G.~Poisson, and F.~Perrotin.
-\newblock Fetal tele-echography using a robotic arm and a satellite link.
-\newblock {\em Wiley InterScience}, 2005.
+\entry{18}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Arbeille}{A.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ruiz}{R.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Herve}{H.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chevillot}{C.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Poisson}{P.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Perrotin}{P.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AP+1}
+  \strng{fullhash}{APRJHPCMPGPF1}
+  \field{title}{Fetal tele-echography using a robotic arm and a satellite link}
+  \field{journaltitle}{Wiley InterScience}
+  \field{year}{2005}
+\endentry
 
-\bibitem{30}
-Jeremy Alaniz and Beth~L. Veale.
-\newblock Stretching for sonographers: A literature review of
-  sonographer-reported musculoskeletale injuries.
-\newblock {\em Journal of Diagnostic Medical Sonography}, 2013.
+\entry{30}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Alaniz}{A.}%
+     {Jeremy}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Veale}{V.}%
+     {Beth~L.}{B.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AJ+1}
+  \strng{fullhash}{AJVBL1}
+  \field{title}{Stretching for Sonographers: A Literature Review of
+  Sonographer-Reported Musculoskeletale injuries}
+  \field{journaltitle}{Journal of Diagnostic Medical Sonography}
+  \field{year}{2013}
+\endentry
 
-\bibitem{Leavitt}
-Finn~Børlum Kristensen and Helga Sigmund.
-\newblock {\em Metodehåndbog for medicinsk teknologivurdering}.
-\newblock Sundhedsstyrelsen, 2007.
+\entry{Leavitt}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kristensen}{K.}%
+     {Finn~Børlum}{F.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sigmund}{S.}%
+     {Helga}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Sundhedsstyrelsen}%
+  }
+  \strng{namehash}{KFB+1}
+  \strng{fullhash}{KFBSH1}
+  \field{title}{Metodehåndbog for medicinsk teknologivurdering}
+  \field{year}{2007}
+\endentry
 
-\bibitem{Husted}
-Jørgen Husted.
-\newblock {\em Etik og værdier i sygeplejen}.
-\newblock Hans Reitzels, 2013.
+\entry{Husted}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Husted}{H.}%
+     {Jørgen}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Hans Reitzels}%
+  }
+  \strng{namehash}{HJ1}
+  \strng{fullhash}{HJ1}
+  \field{title}{Etik og værdier i sygeplejen}
+  \field{year}{2013}
+\endentry
 
-\bibitem{Etiskehjul}
-Jørgen Husted.
-\newblock {\em Etik og værdier i socialt arbejde}.
-\newblock Hans Reitzels Forlag, 2009.
+\entry{Etiskehjul}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Husted}{H.}%
+     {Jørgen}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Hans Reitzels Forlag}%
+  }
+  \strng{namehash}{HJ1}
+  \strng{fullhash}{HJ1}
+  \field{title}{Etik og værdier i socialt arbejde}
+  \verb{url}
+  \verb http://www.hansreitzel.dk/Socialt-arbejde/Etik-og-v%C3%A6rdier-i-social
+  \verb t-arbejde/9788741253329
+  \endverb
+  \field{year}{2009}
+\endentry
 
-\bibitem{6gradersfrihed}
-LifeHealthCare.
-\newblock M6 artificial cervical disc, Maj 2016.
+\entry{6gradersfrihed}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {LifeHealthCare}{L.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{L1}
+  \strng{fullhash}{L1}
+  \field{title}{M6 Artificial Cervical Disc}
+  \verb{url}
+  \verb http://lifehealthcare.com.au/m6/
+  \endverb
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{diamantmodel}
-Danmarks~læringsportal EMU.
-\newblock Leavitt's diamantmodel, Maj 2016.
+\entry{diamantmodel}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {EMU}{E.}%
+     {Danmarks~læringsportal}{D.~l.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{EDl1}
+  \strng{fullhash}{EDl1}
+  \field{title}{Leavitt's diamantmodel}
+  \verb{url}
+  \verb http://www.emu.dk/modul/leavitt%E2%80%99s-diamantmodel
+  \endverb
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{graviditet}
-Thomas Bergholt.
-\newblock Ultralydsskanning i graviditeten, September 2014.
+\entry{graviditet}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bergholt}{B.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BT1}
+  \strng{fullhash}{BT1}
+  \field{title}{Ultralydsskanning i graviditeten}
+  \verb{url}
+  \verb https://www.sundhed.dk/borger/sygdomme-a-aa/graviditet/undersoegelser/u
+  \verb ltralydskanning-i-graviditeten/
+  \endverb
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{kvinderovervaegt}
-Miriam Meister.
-\newblock Danske kvinders vægt går fortsat opad, Oktober 2015.
+\entry{kvinderovervaegt}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Meister}{M.}%
+     {Miriam}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MM1}
+  \strng{fullhash}{MM1}
+  \field{title}{Danske kvinders vægt går fortsat opad}
+  \verb{url}
+  \verb http://www.food.dtu.dk/Nyheder/2015/10/Danske-kvinders-vaegt-gaar-forts
+  \verb at-opad?id=f6c2e6a3-1b11-4d9f-9c11-342da2142486&utm_source=newsletter&u
+  \verb tm_media=mail&utm_campaign=
+  \endverb
+  \field{year}{2015}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{livmoder}
-Graviditet.dk.
-\newblock Livmoder, 2016.
+\entry{livmoder}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Graviditet.dk}{G.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{G1}
+  \strng{fullhash}{G1}
+  \field{title}{Livmoder}
+  \verb{url}
+  \verb http://www.graviditet.dk/livmoder
+  \endverb
+  \field{year}{2016}
+\endentry
 
-\bibitem{35}
-Society of~Diagnostic Medical~Sonography.
-\newblock Industry standarts for the preventation of work-related
-  musculoskeletal disorders in sonography.
-\newblock {\em Journal of Diagnostic Medical Sonography}, 2003.
+\entry{35}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Diagnostic Medical~Sonography}{D.~M.~S.}%
+     {Society}{S.}%
+     {of}{o.}%
+     {}{}}%
+  }
+  \strng{namehash}{oDMSS1}
+  \strng{fullhash}{oDMSS1}
+  \field{title}{Industry Standarts for the Preventation of Work-Related
+  Musculoskeletal Disorders in Sonography}
+  \field{journaltitle}{Journal of Diagnostic Medical Sonography}
+  \field{year}{2003}
+\endentry
 
-\bibitem{29}
-Jean~Hedrick Lea.
-\newblock Psychosocial progression through normal pregnancy: A model for
-  sonographer-patient interaction.
-\newblock {\em Journal of Diagnostic Medical Sonography}, 1985.
+\entry{29}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lea}{L.}%
+     {Jean~Hedrick}{J.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LJH1}
+  \strng{fullhash}{LJH1}
+  \field{title}{Psychosocial Progression Through Normal Pregnancy: A Model for
+  Sonographer-Patient Interaction}
+  \field{journaltitle}{Journal of Diagnostic Medical Sonography}
+  \field{year}{1985}
+\endentry
 
-\bibitem{Inflationsrate}
-Danske Bank.
-\newblock Research danmark - 2016 bliver endnu et år med lav inflation,
-  December 2015.
+\entry{Inflationsrate}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bank}{B.}%
+     {Danske}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BD1}
+  \strng{fullhash}{BD1}
+  \field{title}{Research Danmark - 2016 bliver endnu et år med lav inflation}
+  \verb{url}
+  \verb http://danskeanalyse.danskebank.dk/link/ResearchDanmark161215/$file/Res
+  \verb earch_Danmark_161215.pdf
+  \endverb
+  \field{year}{2015}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{Arbejdsmiljo}
-Danske Regioner.
-\newblock Arbejdsmiljø, sygefravær og trivsel, Maj 2016.
+\entry{Arbejdsmiljo}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Regioner}{R.}%
+     {Danske}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RD1}
+  \strng{fullhash}{RD1}
+  \field{title}{Arbejdsmiljø, sygefravær og trivsel}
+  \verb{url}
+  \verb http://www.regioner.dk/arbejdsgiver/arbejdsmilj-oe-+sygefrav%C3%A6r+og+
+  \verb trivsel
+  \endverb
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{RegionAnsvar}
-Danske Regioner.
-\newblock Regionernes opgaver, Maj 2016.
+\entry{RegionAnsvar}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Regioner}{R.}%
+     {Danske}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RD1}
+  \strng{fullhash}{RD1}
+  \field{title}{Regionernes opgaver}
+  \verb{url}
+  \verb http://www.regioner.dk/om+regionerne/regionernes+opgaver
+  \endverb
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{Lontabel}
-Praktiserende~Lægers Arbejdsgiverforening.
-\newblock Aktuel løntabel, Maj 2016.
+\entry{Lontabel}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Arbejdsgiverforening}{A.}%
+     {Praktiserende~Lægers}{P.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{APL1}
+  \strng{fullhash}{APL1}
+  \field{title}{Aktuel løntabel}
+  \verb{url}
+  \verb http://www.pla.dk/flx/overenskomster/overenskomst_for_laegesekretaerer_
+  \verb i_almen_praksis/aktuel_loen/
+  \endverb
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{Arbejdstid}
-Moderniseringsstyrelsen.
-\newblock Arbejdstidens længde, Maj 2016.
+\entry{Arbejdstid}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Moderniseringsstyrelsen}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{M1}
+  \strng{fullhash}{M1}
+  \field{title}{Arbejdstidens længde}
+  \verb{url}
+  \verb http://pav.perst.dk/Publikation/Arbejdstidsregler%20mv/Tjenestemaend/Ar
+  \verb bejdstidens%20laengde.aspx
+  \endverb
+  \field{year}{2016}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{Hjerterobot}
-Philippe Arbeille and Romain Provost.
-\newblock Teles-operated echocardiography using a robotic arm and an internet
-  connection.
-\newblock {\em Elsevier}, 2014.
+\entry{Hjerterobot}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Arbeille}{A.}%
+     {Philippe}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Provost}{P.}%
+     {Romain}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AP+2}
+  \strng{fullhash}{APPR1}
+  \field{title}{TELES-OPERATED ECHOCARDIOGRAPHY USING A ROBOTIC ARM AND AN
+  INTERNET CONNECTION}
+  \field{journaltitle}{Elsevier}
+  \field{year}{2014}
+\endentry
 
-\bibitem{supersygehus}
-Gitte Johansen.
-\newblock Her ligger dit supersygehus, Juni 2014.
+\entry{supersygehus}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Johansen}{J.}%
+     {Gitte}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{JG1}
+  \strng{fullhash}{JG1}
+  \field{title}{Her ligger dit supersygehus}
+  \verb{url}
+  \verb http://www.danskekommuner.dk/Global/Artikelbilleder/2015/DK-3/DK-3-side
+  \verb -26-27.pdf
+  \endverb
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
+\endentry
 
-\bibitem{greenland}
-Nordisk Råd and Nordisk Ministerråd.
-\newblock Sunhedsvæsnet i grønland, 2016.
+\entry{greenland}{online}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Råd}{R.}%
+     {Nordisk}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ministerråd}{M.}%
+     {Nordisk}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {Norden}%
+  }
+  \strng{namehash}{RN+1}
+  \strng{fullhash}{RNMN1}
+  \field{title}{Sunhedsvæsnet i Grønland}
+  \verb{url}
+  \verb http://www.norden.org/da/hallo-norden/groenland/bo-og-opholde-sig-i-gro
+  \verb enland/sundhedsvaesnet-i-groenland
+  \endverb
+  \field{year}{2016}
+\endentry
 
-\end{thebibliography}
+\lossort
+\endlossort
+
+\endinput
