@@ -60,20 +60,24 @@ Jeremy Alaniz and Beth~L. Veale.
   sonographer-reported musculoskeletale injuries.
 \newblock {\em Journal of Diagnostic Medical Sonography}, 2013.
 
-\bibitem{6gradersfrihed}
-LifeHealthCare.
-\newblock M6 artificial cervical disc, Maj 2016.
-
-\bibitem{Hjerterobot}
-Philippe Arbeille and Romain Provost.
-\newblock Teles-operated echocardiography using a robotic arm and an internet
-  connection.
-\newblock {\em Elsevier}, 2014.
-
 \bibitem{Leavitt}
 Finn~Børlum Kristensen and Helga Sigmund.
 \newblock {\em Metodehåndbog for medicinsk teknologivurdering}.
 \newblock Sundhedsstyrelsen, 2007.
+
+\bibitem{Husted}
+Jørgen Husted.
+\newblock {\em Etik og værdier i sygeplejen}.
+\newblock Hans Reitzels, 2013.
+
+\bibitem{Etiskehjul}
+Jørgen Husted.
+\newblock {\em Etik og værdier i socialt arbejde}.
+\newblock Hans Reitzels Forlag, 2009.
+
+\bibitem{6gradersfrihed}
+LifeHealthCare.
+\newblock M6 artificial cervical disc, Maj 2016.
 
 \bibitem{diamantmodel}
 Danmarks~læringsportal EMU.
@@ -103,15 +107,10 @@ Jean~Hedrick Lea.
   sonographer-patient interaction.
 \newblock {\em Journal of Diagnostic Medical Sonography}, 1985.
 
-\bibitem{Husted}
-Jørgen Husted.
-\newblock {\em Etik og værdier i sygeplejen}.
-\newblock Hans Reitzels, 2013.
-
-\bibitem{Etiskehjul}
-Jørgen Husted.
-\newblock {\em Etik og værdier i socialt arbejde}.
-\newblock Hans Reitzels Forlag, 2009.
+\bibitem{Inflationsrate}
+Danske Bank.
+\newblock Research danmark - 2016 bliver endnu et år med lav inflation,
+  December 2015.
 
 \bibitem{Arbejdsmiljo}
 Danske Regioner.
@@ -128,6 +127,16 @@ Praktiserende~Lægers Arbejdsgiverforening.
 \bibitem{Arbejdstid}
 Moderniseringsstyrelsen.
 \newblock Arbejdstidens længde, Maj 2016.
+
+\bibitem{Hjerterobot}
+Philippe Arbeille and Romain Provost.
+\newblock Teles-operated echocardiography using a robotic arm and an internet
+  connection.
+\newblock {\em Elsevier}, 2014.
+
+\bibitem{supersygehus}
+Gitte Johansen.
+\newblock Her ligger dit supersygehus, Juni 2014.
 
 \bibitem{greenland}
 Nordisk Råd and Nordisk Ministerråd.
