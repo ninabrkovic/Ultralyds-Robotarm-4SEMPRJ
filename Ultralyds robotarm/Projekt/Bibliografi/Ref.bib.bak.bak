@@ -10,16 +10,16 @@
 
 @Article{18,
   author =  {P. Arbeille and J. Ruiz and P. Herve and M. Chevillot and G. Poisson and F. Perrotin},
-  title =   {Fetal tele-echography using a robotic arm and a satellite link},
-  journal = {Wiley InterScience},
-  year =    {2005}
+  journal = {Fetal tele-echography using a robotic arm and a satellite link},
+  year =    {2005},
+  note =    {Wiley InterScience}
 }
 
 @Article{24,
   author =  {Joan P. Baker and Carolyn T. Coffin;},
-  title =   {The Importance of an Ergonomic Workstation to Practicing Sonographers},
-  journal = {J Ultrasound Med},
-  year =    {2013}
+  journal = {The Importance of an Ergonomic Workstation to Practicing Sonographers},
+  year =    {2013},
+  note =    {J Ultrasound Med}
 }
 
 @Article{29,
@@ -31,16 +31,16 @@
 
 @Article{30,
   author =  {Jeremy Alaniz and Beth L. Veale},
-  title =   {Stretching for Sonographers: A Literature Review of Sonographer-Reported Musculoskeletale injuries},
-  journal = {Journal of Diagnostic Medical Sonography},
-  year =    {2013}
+  journal = {Stretching for Sonographers: A Literature Review of Sonographer-Reported Musculoskeletale injuries},
+  year =    {2013},
+  note =    {Journal of Diagnostic Medical Sonography}
 }
 
 @Article{31,
   author =  {Carolyn T. Coffin;},
-  title =   {Work-related Musculoskeletal disorders in sonographers: a review of cause and types og injury and best practices for reducing injury risk},
-  journal = {Dovepress},
-  year =    {2014}
+  journal = {Work-related Musculoskeletal disorders in sonographers: a review of cause and types og injury and best practices for reducing injury risk},
+  year =    {2014},
+  note =    {Dovepress}
 }
 
 @Article{32,
@@ -52,9 +52,9 @@
 
 @Article{35,
   author =  {Society of Diagnostic Medical Sonography},
-  title =   {Industry Standarts for the Preventation of Work-Related Musculoskeletal Disorders in Sonography},
-  journal = {Journal of Diagnostic Medical Sonography},
-  year =    {2003}
+  journal = {Industry Standarts for the Preventation of Work-Related Musculoskeletal Disorders in Sonography},
+  year =    {2003},
+  note =    {Journal of Diagnostic Medical Sonography}
 }
 
 @Article{36,
@@ -65,26 +65,26 @@
 }
 
 @Article{5,
-  author  = {Kurt Boman and Mona Olofsson and Peter Berggren and Partho P. Sengupta and Jagat Narula},
-  title   = {Robot-assisted remote echocardiographic examination and teleconsultation: a randomized comparison of time to diagnosis with standard of care referral approach},
-  journal = {Elsevier Inc.},
-  year    = {2014},
-  month   = {August},
+  author =  {Kurt Boman and Mona Olofsson and Peter Berggren and Partho P. Sengupta and Jagat Narula},
+  journal = {Robot-assisted remote echocardiographic examination and teleconsultation: a randomized comparison of time to diagnosis with standard of care referral approach},
+  year =    {2014},
+  month =   {August},
+  note =    {Elsevier Inc.}
 }
 
 @Electronic{6gradersfrihed,
   author = {LifeHealthCare},
-  month =  {Maj},
-  year =   {2016},
-  title =  {M6 Artificial Cervical Disc},
-  url =    {http://lifehealthcare.com.au/m6/}
+  month  = {Maj},
+  year   = {2016},
+  title  = {M6 Artificial Cervical Disc},
+  url    = {http://lifehealthcare.com.au/m6/},
 }
 
 @Article{8,
   author =  {Francois Conti and Jaeheung Park and Oussama Khatib},
-  title =   {Interface Design and Control Strategies for a Robot Assisted Ultrasonic Examination System},
-  journal = {Artificial Intelligence Laboratory, Stanford University},
-  year =    {2014}
+  journal = {Interface Design and Control Strategies for a Robot Assisted Ultrasonic Examination System},
+  year =    {2014},
+  note =    {Artificial Intelligence Laboratory, Stanford University}
 }
 
 @Electronic{Arbejdsmiljo,
@@ -145,9 +145,9 @@
 
 @Article{Hjerterobot,
   author =  {Philippe Arbeille and Romain Provost},
-  title =   {TELES-OPERATED ECHOCARDIOGRAPHY USING A ROBOTIC ARM AND AN INTERNET CONNECTION},
-  journal = {Elsevier},
-  year =    {2014}
+  journal = {TELES-OPERATED ECHOCARDIOGRAPHY USING A ROBOTIC ARM AND AN INTERNET CONNECTION},
+  year =    {2014},
+  note =    {Elsevier}
 }
 
 @Book{HP,
@@ -170,6 +170,14 @@
   year =   {2016},
   title =  {Danmarks infllation-Rate prognose},
   url =    {http://da.tradingeconomics.com/denmark/inflation-cpi/forecast}
+}
+
+@Electronic{Inflationsrate,
+  author = {Danske Bank},
+  month  = {December},
+  year   = {2015},
+  title  = {Research Danmark - 2016 bliver endnu et år med lav inflation},
+  url    = {http://danskeanalyse.danskebank.dk/link/ResearchDanmark161215/$file/Research_Danmark_161215.pdf},
 }
 
 @Electronic{kvinderovervaegt,
@@ -216,6 +224,14 @@
   year =   {2016},
   title =  {Regionernes opgaver},
   url =    {http://www.regioner.dk/om+regionerne/regionernes+opgaver}
+}
+
+@Electronic{supersygehus,
+  author = {Gitte Johansen},
+  month  = {Juni},
+  year   = {2014},
+  title  = {Her ligger dit supersygehus},
+  url    = {http://www.danskekommuner.dk/Global/Artikelbilleder/2015/DK-3/DK-3-side-26-27.pdf},
 }
 
 @comment{jabref-meta: databaseType:bibtex;}
