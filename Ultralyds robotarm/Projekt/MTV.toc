@@ -38,23 +38,23 @@
 \contentsline {subsection}{\numberline {4.3.1}Opgaver}{12}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Teknologi}{12}{subsection.4.3.2}
 \contentsline {subsection}{\numberline {4.3.3}Akt\IeC {\o }rer}{12}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}Struktur}{13}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.4}Struktur}{14}{subsection.4.3.4}
 \contentsline {section}{\numberline {4.4}Delkonklusion}{14}{section.4.4}
-\contentsline {chapter}{\chapternumberline {5}Patient}{15}{chapter.5}
-\contentsline {section}{\numberline {5.1}De fem patientaspekter}{15}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Sociale forhold}{15}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Kommunikative forhold}{16}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Individuelle forhold}{16}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Etiske forhold}{17}{subsection.5.1.4}
-\contentsline {subsection}{\numberline {5.1.5}\IeC {\O }konomiske forhold}{18}{subsection.5.1.5}
-\contentsline {section}{\numberline {5.2}Delkonklusion}{18}{section.5.2}
-\contentsline {chapter}{\chapternumberline {6}\IeC {\O }konomi}{19}{chapter.6}
-\contentsline {section}{\numberline {6.1}Scenarie 1 - Den nuv\IeC {\ae }rende situation}{20}{section.6.1}
-\contentsline {section}{\numberline {6.2}Scenarie 2 - Den fremtidige situation}{21}{section.6.2}
-\contentsline {section}{\numberline {6.3}Perspektivering til RMV}{22}{section.6.3}
-\contentsline {section}{\numberline {6.4}Delkonklusion}{23}{section.6.4}
-\contentsline {chapter}{\chapternumberline {7}Diskussion}{24}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Konklusion}{26}{chapter.8}
-\contentsline {chapter}{\chapternumberline {9}Perspektivering}{27}{chapter.9}
-\contentsline {chapter}{\chapternumberline {10}Bilagsliste}{29}{chapter.10}
-\contentsline {chapter}{Bibliografi}{30}{section*.28}
+\contentsline {chapter}{\chapternumberline {5}Patient}{16}{chapter.5}
+\contentsline {section}{\numberline {5.1}De fem patientaspekter}{16}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Sociale forhold}{16}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Kommunikative forhold}{17}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Individuelle forhold}{17}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Etiske forhold}{18}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}\IeC {\O }konomiske forhold}{19}{subsection.5.1.5}
+\contentsline {section}{\numberline {5.2}Delkonklusion}{19}{section.5.2}
+\contentsline {chapter}{\chapternumberline {6}\IeC {\O }konomi}{20}{chapter.6}
+\contentsline {section}{\numberline {6.1}Scenarie 1 - Den nuv\IeC {\ae }rende situation}{21}{section.6.1}
+\contentsline {section}{\numberline {6.2}Scenarie 2 - Den fremtidige situation}{22}{section.6.2}
+\contentsline {section}{\numberline {6.3}Perspektivering til RMV}{23}{section.6.3}
+\contentsline {section}{\numberline {6.4}Delkonklusion}{24}{section.6.4}
+\contentsline {chapter}{\chapternumberline {7}Diskussion}{25}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Konklusion}{27}{chapter.8}
+\contentsline {chapter}{\chapternumberline {9}Perspektivering}{28}{chapter.9}
+\contentsline {chapter}{\chapternumberline {10}Bilagsliste}{30}{chapter.10}
+\contentsline {chapter}{Bibliografi}{31}{section*.28}
