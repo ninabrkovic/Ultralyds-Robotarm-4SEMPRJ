@@ -1,5 +1,5 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Logbog.aux
-The style file: unsrt.bst
+The style file: biblatex.bst
 A level-1 auxiliary file: Logbogfiler/16-02-2016.aux
 A level-1 auxiliary file: Logbogfiler/18-02-2016.aux
 A level-1 auxiliary file: Logbogfiler/23-02-2016.aux
@@ -26,6 +26,7 @@ A level-1 auxiliary file: Logbogfiler/20-05-2016.aux
 A level-1 auxiliary file: Logbogfiler/23-05-2016.aux
 A level-1 auxiliary file: Logbogfiler/24-05-2016.aux
 A level-1 auxiliary file: Logbogfiler/25-05-2016.aux
-I found no \citation commands---while reading file Logbog.aux
-I found no \bibdata command---while reading file Logbog.aux
-(There were 2 error messages)
+A level-1 auxiliary file: Logbogfiler/26-05-2016.aux
+Database file #1: Logbog-blx.bib
+Database file #2: Bibliografi/Ref.bib
+Biblatex version: 2.9
