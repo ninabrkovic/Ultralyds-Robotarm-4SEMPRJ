@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.18)  26 MAY 2016 10:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.18)  26 MAY 2016 10:38
 entering extended mode
 **Logbog.tex
 (Logbog.tex
@@ -2142,21 +2142,9 @@ Package biblatex Info: Input encoding 'utf8' specified.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
 Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Logbog.bbl' not found.
 
-
-! Package biblatex Error: File 'Logbog.bbl' not created by biblatex.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \begin{document}
-                    
-This file was apparently not created by biblatex. Rename it or
-move it to a location were TeX will not find it. If this error
-persists, consider redefining \blxauxsuffix.See the biblatex
-manual for details.
-
+No file Logbog.bbl.
 Package biblatex Info: Reference section=0 on input line 6.
 Package biblatex Info: Reference segment=0 on input line 6.
 \c@lstlisting=\count465
@@ -2840,13 +2828,13 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 27.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 27.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 27.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 27.
  [30
 
 
@@ -2918,7 +2906,7 @@ ec\dpi600\ecrm1000.pk> <C:\Users\Mette\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 TeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
 type1/urw/bookman/ubkd8a.pfb>
-Output written on Logbog.pdf (31 pages, 199067 bytes).
+Output written on Logbog.pdf (31 pages, 199133 bytes).
 PDF statistics:
  662 PDF objects out of 1000 (max. 8388607)
  183 named destinations out of 1000 (max. 500000)
