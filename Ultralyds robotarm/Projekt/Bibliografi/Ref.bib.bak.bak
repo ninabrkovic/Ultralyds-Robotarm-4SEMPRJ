@@ -1,11 +1,11 @@
 % Encoding: UTF-8
 
 @Article{1,
-  author  = {Lois M. Wihlidal and Shrawan Kumar},
-  title   = {An injury profile of practicing diagnostic medical sonographers in Alberta},
-  journal = {International Journal of Industrial Ergonomics},
-  year    = {1997},
-  month   = {Marts},
+  author =  {Lois M. Wihlidal and Shrawan Kumar},
+  journal = {An injury profile of practicing diagnostic medical sonographers in Alberta},
+  year =    {1997},
+  month =   {Marts},
+  note =    {International Journal of Industrial Ergonomics}
 }
 
 @Article{18,
@@ -23,10 +23,10 @@
 }
 
 @Article{29,
-  author  = {Jean Hedrick Lea},
-  title   = {Psychosocial Progression Through Normal Pregnancy: A Model for Sonographer-Patient Interaction},
-  journal = {Journal of Diagnostic Medical Sonography},
-  year    = {1985},
+  author =  {Jean Hedrick Lea},
+  journal = {Psychosocial Progression Through Normal Pregnancy: A Model for Sonographer-Patient Interaction},
+  year =    {1985},
+  note =    {Journal of Diagnostic Medical Sonography}
 }
 
 @Article{30,
@@ -44,10 +44,10 @@
 }
 
 @Article{32,
-  author  = {Becky Morton and Penny Delf},
-  title   = {The prevalence and causes of MSI amongst sonographers},
-  journal = {Elsevier Ltd},
-  year    = {2007},
+  author =  {Becky Morton and Penny Delf},
+  journal = {The prevalence and causes of MSI amongst sonographers},
+  year =    {2007},
+  note =    {Elsevier Ltd}
 }
 
 @Article{35,
@@ -59,9 +59,9 @@
 
 @Article{36,
   author =  {Shawn C. Roll and Lauren Selhorst and Kevin D. Evans},
-  title =   {Contribution of positioning to work-related musculoskeletal discomfort in diagnostic medical sonographers},
-  journal = {IOS Press},
-  year =    {2012}
+  journal = {Contribution of positioning to work-related musculoskeletal discomfort in diagnostic medical sonographers},
+  year =    {2012},
+  note =    {IOS Press}
 }
 
 @Article{5,
@@ -145,7 +145,7 @@
 
 @Article{Hjerterobot,
   author =  {Philippe Arbeille and Romain Provost},
-  journal = {TELES-OPERATED ECHOCARDIOGRAPHY USING A ROBOTIC ARM AND AN INTERNET CONNECTION},
+  journal = {Teles-operated Echocardiography using a Robotic Arm and an Internet Connection},
   year =    {2014},
   note =    {Elsevier}
 }

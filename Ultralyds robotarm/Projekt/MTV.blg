@@ -1,20 +1,5 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: MTV.aux
-The style file: biblatex.bst
-A level-1 auxiliary file: Filer/Forside.aux
-A level-1 auxiliary file: Filer/Resume.aux
-A level-1 auxiliary file: Filer/Abstract.aux
-A level-1 auxiliary file: Filer/Forord.aux
-A level-1 auxiliary file: Filer/Forkortelser.aux
-A level-1 auxiliary file: Filer/Indledning.aux
-A level-1 auxiliary file: Filer/Metoder.aux
-A level-1 auxiliary file: Filer/Teknologi.aux
-A level-1 auxiliary file: Filer/Organisation.aux
-A level-1 auxiliary file: Filer/Patient_etik.aux
-A level-1 auxiliary file: Filer/OEkonomi.aux
-A level-1 auxiliary file: Filer/Diskussion.aux
-A level-1 auxiliary file: Filer/Konklusion.aux
-A level-1 auxiliary file: Filer/Perspektivering.aux
-A level-1 auxiliary file: Filer/Bilag.aux
-Database file #1: MTV-blx.bib
-Database file #2: Bibliografi/Ref.bib
-Biblatex version: 2.9
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'MTV.blg'
+[41] biber-MSWIN:274> INFO - === %a %b %e, %Y, %H:%M:%S
+[41] Biber.pm:333> INFO - Reading 'MTV.bcf'
+[128] Utils.pm:144> WARN - No data sources defined!
