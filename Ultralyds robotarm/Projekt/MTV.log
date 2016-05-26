@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  26 MAY 2016 10:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.2)  26 MAY 2016 10:54
 entering extended mode
 **MTV.tex
 (MTV.tex
@@ -2320,7 +2320,7 @@ File: Figurer/ergonomiskLosning.jpg Graphic file (type jpg)
 
 <use Figurer/ergonomiskLosning.jpg>
 Package pdftex.def Info: Figurer/ergonomiskLosning.jpg used on input line 10.
-(pdftex.def)             Requested size: 386.75278pt x 185.27641pt.
+(pdftex.def)             Requested size: 455.0pt x 217.97148pt.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining danish shorthand "~
@@ -2375,20 +2375,15 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-Underfull \hbox (badness 1122) in paragraph at lines 6--9
-\T1/cmr/m/n/10.95 undtagen til Organisation. Videnskabelige artikler omhandlend
-e arbejdsskader har været
- []
-
 <Figurer/InklusionEksklusion.jpg, id=353, 278.2395pt x 175.25475pt>
 File: Figurer/InklusionEksklusion.jpg Graphic file (type jpg)
 
 <use Figurer/InklusionEksklusion.jpg>
-Package pdftex.def Info: Figurer/InklusionEksklusion.jpg used on input line 13.
+Package pdftex.def Info: Figurer/InklusionEksklusion.jpg used on input line 14.
 
-(pdftex.def)             Requested size: 273.00278pt x 171.96774pt.
+(pdftex.def)             Requested size: 318.49861pt x 200.6268pt.
 
-Underfull \hbox (badness 1024) in paragraph at lines 18--19
+Underfull \hbox (badness 1024) in paragraph at lines 19--20
 []\T1/cmr/m/n/10.95 Dermed er artikler omhandlende scanning af gravide, scannin
 g af hjertet, robotarm og
  []
@@ -2407,30 +2402,30 @@ Package babel Info: Redefining danish shorthand "~
 
  <./Figurer/InklusionEksklusion.jpg>]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 27.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 27.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 40.
  [5]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 41.
 )
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 33.
@@ -3011,7 +3006,7 @@ Package logreq Info: Writing requests to 'MTV.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  33464 strings out of 493698
- 601430 string characters out of 3141969
+ 601435 string characters out of 3141969
  1049029 words of memory out of 3000000
  36056 multiletter control sequences out of 15000+200000
  29847 words of font info for 82 fonts, out of 3000000 for 9000
@@ -3038,7 +3033,7 @@ m-super/sfti1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-s
 uper/sfti1095.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-supe
 r/sftt1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkd8
 a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on MTV.pdf (40 pages, 1571788 bytes).
+Output written on MTV.pdf (40 pages, 1571775 bytes).
 PDF statistics:
  762 PDF objects out of 1000 (max. 8388607)
  160 named destinations out of 1000 (max. 500000)
