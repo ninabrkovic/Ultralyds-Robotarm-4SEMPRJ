@@ -31,9 +31,9 @@
   }
   \strng{namehash}{WLM+1}
   \strng{fullhash}{WLMKS1}
-  \field{title}{An injury profile of practicing diagnostic medical sonographers
-  in Alberta}
-  \field{journaltitle}{International Journal of Industrial Ergonomics}
+  \field{note}{International Journal of Industrial Ergonomics}
+  \field{journaltitle}{An injury profile of practicing diagnostic medical
+  sonographers in Alberta}
   \field{year}{1997}
   \warn{\item Invalid format of field 'month'}
 \endentry
@@ -53,9 +53,9 @@
   }
   \strng{namehash}{BJP+1}
   \strng{fullhash}{BJPCCT1}
-  \field{title}{The Importance of an Ergonomic Workstation to Practicing
+  \field{note}{J Ultrasound Med}
+  \field{journaltitle}{The Importance of an Ergonomic Workstation to Practicing
   Sonographers}
-  \field{journaltitle}{J Ultrasound Med}
   \field{year}{2013}
 \endentry
 
@@ -69,10 +69,10 @@
   }
   \strng{namehash}{CCT1}
   \strng{fullhash}{CCT1}
-  \field{title}{Work-related Musculoskeletal disorders in sonographers: a
-  review of cause and types og injury and best practices for reducing injury
+  \field{note}{Dovepress}
+  \field{journaltitle}{Work-related Musculoskeletal disorders in sonographers:
+  a review of cause and types og injury and best practices for reducing injury
   risk}
-  \field{journaltitle}{Dovepress}
   \field{year}{2014}
 \endentry
 
@@ -91,8 +91,8 @@
   }
   \strng{namehash}{MB+1}
   \strng{fullhash}{MBDP1}
-  \field{title}{The prevalence and causes of MSI amongst sonographers}
-  \field{journaltitle}{Elsevier Ltd}
+  \field{note}{Elsevier Ltd}
+  \field{journaltitle}{The prevalence and causes of MSI amongst sonographers}
   \field{year}{2007}
 \endentry
 
@@ -116,9 +116,9 @@
   }
   \strng{namehash}{RSC+1}
   \strng{fullhash}{RSCSLEKD1}
-  \field{title}{Contribution of positioning to work-related musculoskeletal
-  discomfort in diagnostic medical sonographers}
-  \field{journaltitle}{IOS Press}
+  \field{note}{IOS Press}
+  \field{journaltitle}{Contribution of positioning to work-related
+  musculoskeletal discomfort in diagnostic medical sonographers}
   \field{year}{2012}
 \endentry
 
@@ -168,9 +168,9 @@
   }
   \strng{namehash}{CF+1}
   \strng{fullhash}{CFPJKO1}
-  \field{title}{Interface Design and Control Strategies for a Robot Assisted
-  Ultrasonic Examination System}
-  \field{journaltitle}{Artificial Intelligence Laboratory, Stanford University}
+  \field{note}{Artificial Intelligence Laboratory, Stanford University}
+  \field{journaltitle}{Interface Design and Control Strategies for a Robot
+  Assisted Ultrasonic Examination System}
   \field{year}{2014}
 \endentry
 
@@ -204,10 +204,10 @@
   }
   \strng{namehash}{BK+1}
   \strng{fullhash}{BKOMBPSPPNJ1}
-  \field{title}{Robot-assisted remote echocardiographic examination and
+  \field{note}{Elsevier Inc.}
+  \field{journaltitle}{Robot-assisted remote echocardiographic examination and
   teleconsultation: a randomized comparison of time to diagnosis with standard
   of care referral approach}
-  \field{journaltitle}{Elsevier Inc.}
   \field{year}{2014}
   \warn{\item Invalid format of field 'month'}
 \endentry
@@ -247,8 +247,9 @@
   }
   \strng{namehash}{AP+1}
   \strng{fullhash}{APRJHPCMPGPF1}
-  \field{title}{Fetal tele-echography using a robotic arm and a satellite link}
-  \field{journaltitle}{Wiley InterScience}
+  \field{note}{Wiley InterScience}
+  \field{journaltitle}{Fetal tele-echography using a robotic arm and a
+  satellite link}
   \field{year}{2005}
 \endentry
 
@@ -435,9 +436,9 @@
   }
   \strng{namehash}{oDMSS1}
   \strng{fullhash}{oDMSS1}
-  \field{title}{Industry Standarts for the Preventation of Work-Related
+  \field{note}{Journal of Diagnostic Medical Sonography}
+  \field{journaltitle}{Industry Standarts for the Preventation of Work-Related
   Musculoskeletal Disorders in Sonography}
-  \field{journaltitle}{Journal of Diagnostic Medical Sonography}
   \field{year}{2003}
 \endentry
 
@@ -451,9 +452,9 @@
   }
   \strng{namehash}{LJH1}
   \strng{fullhash}{LJH1}
-  \field{title}{Psychosocial Progression Through Normal Pregnancy: A Model for
-  Sonographer-Patient Interaction}
-  \field{journaltitle}{Journal of Diagnostic Medical Sonography}
+  \field{note}{Journal of Diagnostic Medical Sonography}
+  \field{journaltitle}{Psychosocial Progression Through Normal Pregnancy: A
+  Model for Sonographer-Patient Interaction}
   \field{year}{1985}
 \endentry
 
@@ -566,9 +567,9 @@
   }
   \strng{namehash}{AP+2}
   \strng{fullhash}{APPR1}
-  \field{title}{TELES-OPERATED ECHOCARDIOGRAPHY USING A ROBOTIC ARM AND AN
-  INTERNET CONNECTION}
-  \field{journaltitle}{Elsevier}
+  \field{note}{Elsevier}
+  \field{journaltitle}{TELES-OPERATED ECHOCARDIOGRAPHY USING A ROBOTIC ARM AND
+  AN INTERNET CONNECTION}
   \field{year}{2014}
 \endentry
 
